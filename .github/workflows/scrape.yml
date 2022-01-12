@@ -2,7 +2,7 @@ name: Web Scrape
 
 on:
   schedule:
-    - cron: "0 0 * * *" # scheduled for a test
+    - cron: "35 0 * * *" # scheduled for a test
 
 jobs:
   scrape-latest:
