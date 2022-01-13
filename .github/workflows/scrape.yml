@@ -2,7 +2,7 @@ name: Web Scrape
 
 on:
   schedule:
-    - cron: "30 3 * * *" # runs at 10:00 or 11:00 EST (03:00 UTC) every day, depending on daylight savings
+    - cron: "30 3 * * *" # runs at 10:30 or 11:30 EST (03:30 UTC) every day, depending on daylight savings
 
 jobs:
   scrape-latest:
