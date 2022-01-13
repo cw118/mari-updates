@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+from datetime import datetime
 
 def main():
     scrape()
@@ -74,6 +75,13 @@ def scrape():
                 # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
                 if "calendar" in calendar_title.lower():
                     f.write(f"- {calendar_title}: {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
+
+            # Retrieve and write (current) timestamp of the last scraper and URL check run
+            timestamp = datetime.now()
+            day = timestamp.strftime("%a %b. %d, %Y")
+            time = timestamp.strftime("%H:%M")
+            f.write("\n") # Write a newline before timestamp
+            f.write(f"Last updated on {day} at {time}")
 
 if __name__ == "__main__":
     main()
