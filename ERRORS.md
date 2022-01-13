@@ -1,0 +1,1 @@
+This file was created in case errors with the links being scraped have been moved or deleted. If this text is all you see, then we're all good!

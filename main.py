@@ -9,6 +9,15 @@ Simple web scraper for Marianopolis College's admissions updates and calendars
 Modified from my web scraper built for LHD: Build day 4
 """
 
+def check_url(url):
+    # Verify HTTP status codes returned by GET requests to URLs
+    if requests.get(url).status_code != 200:
+        with open("ERRORS.md", "w") as f:
+            f.write(f"This link needs to be updated (moved or deleted): {url}\n")
+        return 1
+    else:
+        return 0
+
 def scrape():
     """
     Scrape admissions updates
@@ -43,27 +52,28 @@ def scrape():
     calendars = calendar_section.find_all("a")
 
     """
-    Open README file and write
+    Open README file and write if URL checks for both links pass
     """
-    with open("README.md", "w") as f:
-        # Write introduction and some headings
-        f.write("## Marianopolis College updates\n\n")
-        f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo daily thanks to GitHub Actions automation.\n\n")
-        f.write("### Admissions updates\n\n")
+    if (check_url(url_adm) == 0) and (check_url(url_cal) == 0):
+        with open("README.md", "w") as f:
+            # Write introduction and some headings
+            f.write("## Marianopolis College updates\n\n")
+            f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo daily thanks to GitHub Actions automation.\n\n")
+            f.write("### Admissions updates\n\n")
 
-        # Write admissions updates
-        for update in updates:
-            f.write(update.text + "\n\n")
+            # Write admissions updates
+            for update in updates:
+                f.write(update.text + "\n\n")
 
-        f.write("### Calendars\n\n")
+            f.write("### Calendars\n\n")
 
-        for calendar in calendars:
-            calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
-            calendar_title = calendar.text  # Save the "title" of the calendar
+            for calendar in calendars:
+                calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
+                calendar_title = calendar.text  # Save the "title" of the calendar
 
-            # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
-            if "calendar" in calendar_title.lower():
-                f.write(f"- {calendar_title}: {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
+                # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
+                if "calendar" in calendar_title.lower():
+                    f.write(f"- {calendar_title}: {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
 
 if __name__ == "__main__":
     main()
