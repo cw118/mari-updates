@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import unicodedata # Used to normalize unicode and prevent errors from characters like &nbsp; (\xa0)
 from datetime import datetime
+from pytz import timezone
 
 def main():
     scrape()
@@ -79,11 +80,11 @@ def scrape():
                     f.write(f"- {calendar_title}: {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
 
             # Retrieve and write (current) timestamp of the last scraper and URL check run
-            timestamp = datetime.now()
+            timestamp = datetime.now(timezone('America/Toronto')) # Convert to EST timezone (Toronto is a commonly used standard timezone that matches our purposes)
             day = timestamp.strftime("%a %b. %d, %Y")
             time = timestamp.strftime("%H:%M")
             f.write("\n") # Write a newline before timestamp
-            f.write(f"*Last updated on {day} at {time}.*")
+            f.write(f"*Last updated on {day} at {time} (EST).*")
 
 if __name__ == "__main__":
     main()
