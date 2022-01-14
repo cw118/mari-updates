@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+import unicodedata # Used to normalize unicode and prevent errors from characters like &nbsp; (\xa0)
 from datetime import datetime
 
 def main():
@@ -64,13 +65,14 @@ def scrape():
 
             # Write admissions updates
             for update in updates:
-                f.write(update.text + "\n\n")
+                update_text = unicodedata.normalize("NFKD", update.text)
+                f.write(update_text + "\n\n")
 
             f.write("### Calendars\n\n")
 
             for calendar in calendars:
                 calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
-                calendar_title = calendar.text  # Save the "title" of the calendar
+                calendar_title = unicodedata.normalize("NFKD", calendar.text)  # Save the "title" of the calendar
 
                 # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
                 if "calendar" in calendar_title.lower():
@@ -81,7 +83,7 @@ def scrape():
             day = timestamp.strftime("%a %b. %d, %Y")
             time = timestamp.strftime("%H:%M")
             f.write("\n") # Write a newline before timestamp
-            f.write(f"Last updated on {day} at {time}")
+            f.write(f"*Last updated on {day} at {time}.*")
 
 if __name__ == "__main__":
     main()
