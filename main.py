@@ -62,14 +62,14 @@ def scrape():
             # Write introduction and some headings
             f.write("## Marianopolis College updates\n\n")
             f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo daily thanks to GitHub Actions automation.\n\n")
-            f.write("### Admissions updates\n\n")
+            f.write("### [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
 
             # Write admissions updates
             for update in updates:
                 update_text = unicodedata.normalize("NFKD", update.text)
                 f.write(update_text + "\n\n")
 
-            f.write("### Calendars\n\n")
+            f.write("### [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
 
             for calendar in calendars:
                 calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
