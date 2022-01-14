@@ -2,7 +2,7 @@
 
 This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo daily thanks to GitHub Actions automation.
 
-### Admissions updates
+### [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
 Fall 2022 Admissions
 
@@ -14,11 +14,11 @@ Admissions Information Evening
 
 Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event is open to Secondary V students and their parents. More information to follow.
 
-### Calendars
+### [Calendars](https://www.marianopolis.edu/campus-life/calendar/)
 
 - Fall 2021 Academic Calendar: http://www.marianopolis.edu/wp-content/uploads/2021/08/Fall-2021-Academic-Calendar-August-5.pdf
 - Winter 2022 Academic Calendar: http://www.marianopolis.edu/wp-content/uploads/2022/01/Winter-2022-Academic-Calendar-Jan-13.pdf
 - Course Calendar 2021-2022: https://marianopolis-college.dcatalog.com/v/2021-2022-Calendar/
 - Course Calendar 2020-2021: https://marianopolis-college.dcatalog.com/v/2020-2021-Marianopolis-Calendar/
 
-*Last updated on Thurs Jan. 13, 2022 at 10:39 (EST).*
+*Last updated on Fri Jan. 14, 2022 at 00:22 AM (EST).*

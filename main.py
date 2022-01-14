@@ -82,7 +82,7 @@ def scrape():
             # Retrieve and write (current) timestamp of the last scraper and URL check run
             timestamp = datetime.now(timezone('America/Toronto')) # Convert to EST timezone (Toronto is a commonly used standard timezone that matches our purposes)
             day = timestamp.strftime("%a %b. %d, %Y")
-            time = timestamp.strftime("%H:%M")
+            time = timestamp.strftime("%H:%M %p")
             f.write("\n") # Write a newline before timestamp
             f.write(f"*Last updated on {day} at {time} (EST).*")
 
