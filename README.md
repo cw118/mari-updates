@@ -19,4 +19,4 @@ Our virtual Admissions Information Evening will take place Monday, January 31, 2
 - Course Calendar 2021-2022: https://marianopolis-college.dcatalog.com/v/2021-2022-Calendar/
 - Course Calendar 2020-2021: https://marianopolis-college.dcatalog.com/v/2020-2021-Marianopolis-Calendar/
 
-*Last updated on Mon Jan. 17, 2022 at 22:39 PM (EST).*
+*Last updated on Tue Jan. 18, 2022 at 22:34 PM (EST).*
