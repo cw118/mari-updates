@@ -9,13 +9,14 @@ def main():
 
 """
 Simple web scraper for Marianopolis College's admissions updates and calendars
-Modified from my web scraper built for LHD: Build day 4
+Modified from my web scraper built for LHD: Build day 4 (see my lhd_build repo)
 """
 
 def check_url(url):
     # Verify HTTP status codes returned by GET requests to URLs
     if requests.get(url).status_code != 200:
         with open("ERRORS.md", "w") as f:
+            # Write problematic links that don't return a 200 OK status to the ERRORS.md file
             f.write(f"This link needs to be updated (moved or deleted): {url}\n")
         return 1
     else:
@@ -33,7 +34,7 @@ def scrape():
 
     """
     The class list/selector used below is quite specific due to it being a WordPress site.
-    Depending on the site structure after new updates are posted, may need to be modified.
+    Depending on the site structure after new updates are posted, this may need to be modified.
     """
     update_section = soup.find("div", class_ = "x-section e4336-11 m3cg-0 m3cg-3 m3cg-4")
 
