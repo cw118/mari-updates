@@ -63,6 +63,7 @@ def scrape():
             # Write introduction and some headings
             f.write("## Marianopolis College updates\n\n")
             f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo daily thanks to GitHub Actions automation.\n\n")
+            f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n")
             f.write("### [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
 
             # Write admissions updates
