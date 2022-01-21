@@ -2,6 +2,8 @@
 
 This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo daily thanks to GitHub Actions automation.
 
+*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*
+
 ### [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
 Fall 2022 Admissions
@@ -19,4 +21,4 @@ Our virtual Admissions Information Evening will take place Monday, January 31, 2
 - Course Calendar 2021-2022: https://marianopolis-college.dcatalog.com/v/2021-2022-Calendar/
 - Course Calendar 2020-2021: https://marianopolis-college.dcatalog.com/v/2020-2021-Marianopolis-Calendar/
 
-*Last updated on Wed Jan. 19, 2022 at 22:34 PM (EST).*
+*Last updated on Thu Jan. 20, 2022 at 22:34 PM (EST).*
