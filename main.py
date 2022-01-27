@@ -22,6 +22,13 @@ def check_url(url):
     else:
         return 0
 
+
+def normalize(text):
+    # Replace smart quotes/apostrophes and normalize unicode 
+    # (unicodedata hasn't been replacing smart quotes, so it's being done separately)
+    normalized = unicodedata.normalize("NFKD", text.replace("\u2019", "'"))
+    return normalized
+
 def scrape():
     """
     Scrape admissions updates
@@ -81,14 +88,14 @@ def scrape():
 
             # Write admissions updates
             for update in updates:
-                update_text = unicodedata.normalize("NFKD", update.text.replace("\u2019", "'"))
+                update_text = normalize(update.text)
                 f.write(update_text + "\n\n")
 
             f.write("### [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
 
             for calendar in calendars:
                 calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
-                calendar_title = unicodedata.normalize("NFKD", calendar.text.replace("\u2019", "'"))  # Save the "title" of the calendar
+                calendar_title = normalize(calendar.text)  # Save the "title" of the calendar
 
                 # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
                 if "calendar" in calendar_title.lower():
@@ -102,12 +109,12 @@ def scrape():
 
             for article in articles:
                 if "2022" in (article.select_one("p.p-meta > span > time.entry-date").text):
-                    article_title = unicodedata.normalize("NFKD", article.find("h2", class_ = "entry-title").text.replace("\u2019", "'").strip("\n")) # Get entry title
+                    article_title = normalize(article.find("h2", class_ = "entry-title").text).strip("\n") # Get entry title
                     article_excerpt = article.find("div", class_ = "entry-content excerpt") # Get excerpt div (contains links and snippets/summaries)
 
-                    article_pubdate = unicodedata.normalize("NFKD", article.select_one("p.p-meta > span > time.entry-date").text.replace("\u2019", "'")) # Get publish date in text form
+                    article_pubdate = normalize(article.select_one("p.p-meta > span > time.entry-date").text) # Get publish date in text form
                     article_link = article_excerpt.find("a")["href"].strip("\n") # Get article link (scraped from the "Read More" link button in the excerpt divs)
-                    article_snippet = unicodedata.normalize("NFKD", article_excerpt.find("p").text.replace("\u2019", "'")) # Get snippets/summaries of the articles
+                    article_snippet = normalize(article_excerpt.find("p").text) # Get snippets/summaries of the articles
 
 
                     # Write article data to table row (Markdown)
