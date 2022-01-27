@@ -46,7 +46,7 @@ def scrape():
     update_section = soup.find("div", class_ = "x-section e4336-11 m3cg-0 m3cg-3 m3cg-4")
 
     # Search for paragraphs containing updates
-    updates = update_section.find_all("p")
+    updates = update_section.select("p")
 
     """
     Scrape calendars (links)
@@ -81,17 +81,24 @@ def scrape():
     if (check_url(url_adm) == 0) and (check_url(url_cal) == 0):
         with open("README.md", "w") as f:
             # Write introduction and some headings
-            f.write("## Marianopolis College updates\n\n")
+            f.write("# Marianopolis College updates\n\n")
             f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice daily thanks to GitHub Actions automation.\n\n")
             f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n")
-            f.write("### [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
+            f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
 
             # Write admissions updates
             for update in updates:
-                update_text = normalize(update.text)
-                f.write(update_text + "\n\n")
+            
+                # Write with bold formatting if the text is wrapped in <strong> tags (the update "title")
+                if update.find("strong"):
+                    update_text = normalize(update.text)
+                    f.write(f"**{update_text}**\n\n")
+                else:
+                    update_text = normalize(update.text)
+                    f.write(update_text + "\n\n")
 
-            f.write("### [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
+            f.write("## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
+            f.write("Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:\n\n")
 
             for calendar in calendars:
                 calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
@@ -99,10 +106,11 @@ def scrape():
 
                 # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
                 if "calendar" in calendar_title.lower():
-                    f.write(f"- {calendar_title}: {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
+                    f.write(f"- *{calendar_title}:* {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
 
             # Write current year's admissions articles
-            f.write("\n### [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
+            f.write("\n## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
+            f.write("Recent articles published by the Marianpolis staff and recruit team. Click on the title(s) to read the full text:\n\n")
             # Prepare table (head and separator)
             f.write("| Article | Publish Date | Excerpt |\n")
             f.write("| ------- | ------------ | ------- |\n")
@@ -124,7 +132,8 @@ def scrape():
             timestamp = datetime.now(timezone('America/Toronto')) # Convert to EST timezone (Toronto is a commonly used standard timezone that matches our purposes)
             day = timestamp.strftime("%a %b. %d, %Y")
             time = timestamp.strftime("%H:%M %p")
-            f.write("\n") # Write a newline before timestamp
+            # Write horizontal rule before timestamp
+            f.write("\n---\n\n")
             f.write(f"*Last updated on {day} at {time} (EST).*")
 
 if __name__ == "__main__":
