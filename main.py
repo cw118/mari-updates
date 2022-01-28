@@ -30,6 +30,8 @@ def normalize(text):
     return normalized
 
 def scrape():
+    year = datetime.today().year
+
     """
     Scrape admissions updates
     """
@@ -81,7 +83,7 @@ def scrape():
     if (check_url(url_adm) == 0) and (check_url(url_cal) == 0):
         with open("README.md", "w") as f:
             # Write introduction and some headings
-            f.write("# Marianopolis College updates\n\n")
+            f.write(f"# Marianopolis College updates {year}\n\n")
             f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice daily thanks to GitHub Actions automation.\n\n")
             f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n")
             f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
@@ -110,13 +112,13 @@ def scrape():
 
             # Write current year's admissions articles
             f.write("\n## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
-            f.write("Recent articles published by the Marianpolis staff and recruit team. Click on the title(s) to read the full text:\n\n")
+            f.write("Recent articles published by the Marianopolis staff and recruit team. Click on the title(s) to read the full text:\n\n")
             # Prepare table (head and separator)
             f.write("| Article | Publish Date | Excerpt |\n")
             f.write("| ------- | ------------ | ------- |\n")
 
             for article in articles:
-                if "2022" in (article.select_one("p.p-meta > span > time.entry-date").text):
+                if str(year) in (article.select_one("p.p-meta > span > time.entry-date").text):
                     article_title = normalize(article.find("h2", class_ = "entry-title").text).strip("\n") # Get entry title
                     article_excerpt = article.find("div", class_ = "entry-content excerpt") # Get excerpt div (contains links and snippets/summaries)
 
