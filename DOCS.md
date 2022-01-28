@@ -1,12 +1,12 @@
 # About `mari-updates`
 
-Thanks for visiting my `mari-updates` repo! If you're wondering how it works and why it was created, you're in the right place. If you'd like to run or test the web scraper on your local machine, skip to [Running the scraper locally](#running-the-scraper-locally).
+Thanks for visiting my `mari-updates` repo! If you're wondering how it works, you're in the right place. If you'd like to run or test the web scraper on your local machine, skip to [Running the scraper locally](#running-the-scraper-locally).
 
 *To see the self-updating README with the scraped updates, please go to [README.md](README.md).*
 
 ## Web scraper
 
-The most central "piece" of code in this repo is the web scraper component — this is written in Python and uses the Beautiful Soup and `requests` libraries to scrape content from two sites. The Python script that does all this is `main.py` — there are also comments alongside the code that explain the role of certain lines and parts of the code, so do take a look at the file to see exactly how everything was programmed.
+The most central "piece" of code in this repo is the web scraper component — this is written in Python and uses the Beautiful Soup and `requests` libraries to scrape content from two sites. The Python script that does all this is `main.py` — there are also comments alongside the code that explain the role of certain lines and parts of the code, so do take a look at the file to see exactly how everything was programmed. *(See [Self-updating workflow](#self-updating-workflow) to see how the script executes through automation.)*
 
 The `scrape()` function contains the code that scrapes the sites, and does the following:
 
@@ -14,16 +14,18 @@ The `scrape()` function contains the code that scrapes the sites, and does the f
 - If the request(s) result(s) in `200 OK` HTTP codes, the script fetches the text content of the specified URL (link)
   - `requests.get(<url>).status_code` returns the HTTP status code returned by a `GET` request
   - *A "fallback" was implemented in case the resulting HTTP code is **not** the expected `200`. See [Troubleshooting](#troubleshooting) for more information.*
-- The BeautifulSoup library is used to parse the text content as LXML:
-  - For the admissions updates section of the scraper, the program searches for the `<div>` with the classes `x-section e4336-11 m3cg-0 m3cg-3 m3cg-4`, which contains all updates posted by the admissions teams (and that's what we want!)
-  - For the calendar links section, the program searches inside an `<article>` tag (where the calendar links tend to be included) for links, or anchor tags `<a>`, containing the word "calendar" (case-insensitive)
+
+Within this same function (`scrape()`), the BeautifulSoup library is used to parse the text content as LXML:
+
+- ***For the admissions updates section of the scraper***, the program searches for the `<div>` with the classes `x-section e4336-11 m3cg-0 m3cg-3 m3cg-4`, which contains all updates posted by the admissions teams (and that's what we want!). A condition checks whether a `<strong>` tag was found within the `<p>` tags scraped, the latter of which contain both update titles and the actual updates themselves; if `strong` (bold) formatting is "detected", then the text of that paragraph is written with bold formatting, otherwise it'll be written as normal text.
+- ***For the calendar links section***, the program searches inside an `<article>` tag (where the calendar links tend to be included) for links, or anchor tags `<a>`, containing the word "calendar" (case-insensitive)
+- ***For Marianopolis' admissions articles section***, each article is found in an `<article>` tag. The title is found in an `<h2>` tag with a class of `entry-title`, the publication date in the text content of `<time>` tags, and so on *(see `main.py` for the rest, or visit the admissions articles page of Marianopolis' website to inspect the code for yourself)*. Each article entry is then added as a row to a Markdown table with three columns, "Article", "Publish Date" and "Excerpt". The article titles also link to their corresponding articles.
 - The desired site content scraped from above is then written to `README.md` every time the scraper script is run
-  - The `datetime` and `pytz` Python modules are used to retrieve and update the time of the latest scraper/workflow run, written at the very end of `README.md`. `datetime` retrieves the current time, then the `timezone` function from `pytz` converts it to Eastern Standard Time, and finally the `strftime` function formats the timestamp as *"Last updated on {weekday} {month}. {day}, {year} at {time AM/PM} (EST)"* — you'll find this timestamp the bottom of the [README](README.md).
-  - **See [Self-updating workflow](#self-updating-workflow) to see how the script executes through automation).**
+- The `datetime` and `pytz` Python modules are used to retrieve and update the time of the latest scraper/workflow run, written at the very end of `README.md`. `datetime` retrieves the current time, then the `timezone` function from `pytz` converts it to Eastern Standard Time, and finally the `strftime` function formats the timestamp as *"Last updated on {weekday} {month}. {day}, {year} at {time AM/PM} (EST)"* — you'll find this timestamp the bottom of the [README](README.md).
 
 ### Self-updating workflow
 
-This part of the repo is just as important, because it's an Actions workflow that's automating the process of running the scraper program, and thus updating the README once a day. *("Actions workflow" is referring to a [GitHub Actions workflow](https://docs.github.com/en/actions). It's an incredibly useful and powerful feature of GitHub that can help programmers automate, test, and deploy programs right from their repositories.)*
+This part of the repo is just as important, because it's an Actions workflow that's automating the process of running the scraper program, and thus updating the README once a day. *("Actions workflow" refers to a [GitHub Actions workflow](https://docs.github.com/en/actions). It's an incredibly useful and powerful feature of GitHub that can help programmers automate, test, and deploy programs right from their repositories.)*
 
 The workflow responsible for running the scraper is named "Web Scrape", and can be found in the `scrape.yml` file of this repo (the file path is `.github/workflows/scrape.yml`). It uses several Actions and steps:
 
@@ -33,13 +35,13 @@ The workflow responsible for running the scraper is named "Web Scrape", and can 
 - The "Execute scraper script" step: run/interpret the `main.py` Python web scraping script
 - The [Add & Commit](https://github.com/EndBug/add-and-commit) action (*"Commit updates (scrape results)"*): commit changes made in previous steps of this workflow directly to the repo, sets me as the commit author and GitHub Actions as the committer
 
-The entire workflow runs on a `schedule` thanks to this `cron` syntax: `"30 3 * * *"`. This causes the workflow to run at 03:30 AM (UTC) every day, thereby scraping the sites and updating the README accordingly.
+The entire workflow runs on a `schedule` thanks to this `cron` syntax: `"30 3,15 * * *"`. This causes the workflow to run at 03:30 AM and PM (UTC) every day, thereby scraping the sites and updating the README accordingly.
 
 ### Troubleshooting
 
 A fallback option was implemented in case any errors arose with making a request to either of the websites, or with parsing the code/text. 
 
-While testing the scraper program locally, an error was discovered where the program is unable to parse code or write text to the README if certain unicode characters like the no-breaking space (`U+00A0`) are present. The solution was to normalize the text using the built-in `unicodedata` Python module, which in turn removes any problematic unicode characters to prevent such errors.
+While testing the scraper program locally, an error was discovered where the program is unable to parse code or write text to the README if certain unicode characters like the no-breaking space (`U+00A0`) are present. The solution was to normalize the text using the built-in `unicodedata` Python module, which in turn removes any problematic unicode characters to prevent such errors — this is now completed through a `normalize()` function. At one point, smart quotes were being "normalized" to the *specials* unicode block (�), so they were replaced with non-typographic quotes (`'`) using a separate `.replace()` method.
 
 An important issue is that websites tend to evolve and change, including URL paths, so it's best if web scrapers have fallbacks in preparation to handle these situations. This is where the `checkurl()` function comes in: if it discovers that the HTTP status code returned by a `request` isn't `200 OK`, it'll write the problematic URL to the `ERRORS.md` file and return `1`. In the `scrape()` function, if `checkurl()` doesn't return a value of `0`, which essentially means "all good" for the links, then it won't write anything to the README. This was done to preserve the last scraped version of the text, even if it may be out-of-date, rather than injecting Python code errors or just failing the entire Actions workflow.
 
@@ -55,4 +57,4 @@ You can also clone this repo, or at the very least `main.py` and `requirements.t
 
 4. To run the scraper, simply type `python main.py` to run the Python script. Results should be written to `README.md` or `ERRORS.md`, depending on the status code(s) returned by the websites.
 
-And that's it!
+And that's it! This was my first web scraper, and thus my first time working with BeautifulSoup — I found it quite fun and definitely learned lots. Thanks for checking out this repository and consider giving it a star 😄

@@ -46,7 +46,7 @@ def scrape():
     update_section = soup.find("div", class_ = "x-section e4336-11 m3cg-0 m3cg-3 m3cg-4")
 
     # Search for paragraphs containing updates
-    updates = update_section.select("p")
+    updates = update_section.find_all("p")
 
     """
     Scrape calendars (links)
@@ -123,7 +123,6 @@ def scrape():
                     article_pubdate = normalize(article.select_one("p.p-meta > span > time.entry-date").text) # Get publish date in text form
                     article_link = article_excerpt.find("a")["href"].strip("\n") # Get article link (scraped from the "Read More" link button in the excerpt divs)
                     article_snippet = normalize(article_excerpt.find("p").text) # Get snippets/summaries of the articles
-
 
                     # Write article data to table row (Markdown)
                     f.write(f"| [{article_title}]({article_link}) | {article_pubdate} | {article_snippet} |\n")
