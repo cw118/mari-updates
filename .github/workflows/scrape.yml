@@ -2,10 +2,10 @@ name: Web Scrape
 
 on:
   schedule:
-  # Runs once at 10:30 or 11:30 EST (15:30 UTC) and 
-  # A second time at 22:30 or 23:30 EST (03:30 UTC) every day
+  # Runs once at 9:40 or 10:40 EST (14:30 UTC) and 
+  # A second time at 21:40 or 22:40 EST (02:30 UTC) every day
   # The EST hour depends on daylight savings
-    - cron: "30 3,15 * * *"
+    - cron: "40 2,14 * * *"
 
 jobs:
   scrape-latest:
