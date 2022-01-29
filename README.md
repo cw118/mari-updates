@@ -1,38 +1,64 @@
 # Marianopolis College updates 2022
 
+[![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)
+
 This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice daily thanks to GitHub Actions automation.
 
 *Refer to [DOCS.md](DOCS.md) for this repository's documentation.*
 
+---
+
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-**Fall 2022 Admissions**
+<strong><u>Fall 2022 Admissions</u></strong>
 
 The online application system is now open as of  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online.
 
-**Admissions Information Evening**
+<strong><u>Admissions Information Evening</u></strong>
 
-Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from our expert College staff. 
+Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from our expert College staff.
 
-**Virtual events series - meet our student ambassadors!**
+<strong><u>Virtual events series - meet our student ambassadors!</u></strong>
 
-**Learn more and register for the events. **
+February 1 - All about student life and activities
+February 9 - All about studying in English for the first time
+February 21 - All about the difference between Marianopolis and high school
 
-**Applying to Music or a Music Double DEC program**
+Learn more and register for the events.
+
+<strong><u>Applying to Music or a Music Double DEC program</u></strong>
 
 If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
 
-**Change of program(s) selected in your online Application**
+<strong><u>Change of program(s) selected in your online Application</u></strong>
 
-**If you would like to change your application program Choice 1 and/or Choice 2, please download and complete the form and have it signed by a parent.**
+If you would like to change your application program Choice 1 and/or Choice 2, please download and complete the form and have it signed by a parent.
 
-**The completed form can be emailed to admissions@marianopolis.edu**
+The completed form can be emailed to admissions@marianopolis.edu
 
-**We recommend the following:**
+Please name your document: 223-xxxx-Last Name, First name
 
-**Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). The deadline to submit a change is Friday, February 25. **
+Indicate the student number you received when you submitted your application
 
-**We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.**
+The subject line of the email should be: Application: Change of program choice
+
+We recommend the following:
+
+Always indicate as a first-choice program one that requires a higher entrance requirement than your second-choice program
+Don't apply to profiles in the same program with the same entrance requirements
+
+For example 200.B1 Health Science and 200.B2 Pure and Applied - these choices have the same entrance requirements
+
+
+Music and Music Double DECs should always be selected as a first-choice program because of the audition requirements
+
+Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). The deadline to submit a change is Friday, February 25.
+
+We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
+
+***Go to the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
+
+---
 
 ## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)
 
@@ -43,16 +69,18 @@ Looking for Marianopolis' course and academic calendars? See the list below for 
 - *Course Calendar 2021-2022:* https://marianopolis-college.dcatalog.com/v/2021-2022-Calendar/
 - *Course Calendar 2020-2021:* https://marianopolis-college.dcatalog.com/v/2020-2021-Marianopolis-Calendar/
 
+---
+
 ## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)
 
 Recent articles published by the Marianopolis staff and recruit team. Click on the title(s) to read the full text:
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) |  January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ...  |
-| [Apply Now for Fall 2022](https://www.bemarianopolis.ca/apply-fall/) |  January 13, 2022 | Our online application portal is now open! Don't forget that the deadline to apply is March 1. A few tips before you apply online: Research your program of interest to make an informed decision. Remember, you can choose a first-choice ...  |
-| [Virtual Admissions Information Evening](https://www.bemarianopolis.ca/admissions-info-evening/) |  January 4, 2022 | Our Admissions Information Evening will be held online Monday, January 31, 2022, from 4 to 7 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from ...  |
+| [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) | January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ... |
+| [Apply Now for Fall 2022](https://www.bemarianopolis.ca/apply-fall/) | January 13, 2022 | Our online application portal is now open! Don't forget that the deadline to apply is March 1. A few tips before you apply online: Research your program of interest to make an informed decision. Remember, you can choose a first-choice ... |
+| [Virtual Admissions Information Evening](https://www.bemarianopolis.ca/admissions-info-evening/) | January 4, 2022 | Our Admissions Information Evening will be held online Monday, January 31, 2022, from 4 to 7 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from ... |
 
 ---
 
-*Last updated on Fri Jan. 28, 2022 at 22:37 PM (EST).*
+*Last updated on Sat Jan. 29, 2022 at 09:46 AM (EST).*
