@@ -14,9 +14,25 @@ The online application system is now open as of  Thursday, January 13, 2022. The
 
 Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from our expert College staff. 
 
+**Virtual events series - meet our student ambassadors!**
+
+**Learn more and register for the events. **
+
 **Applying to Music or a Music Double DEC program**
 
-If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Coordinator of Music.
+If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
+
+**Change of program(s) selected in your online Application**
+
+**If you would like to change your application program Choice 1 and/or Choice 2, please download and complete the form and have it signed by a parent.**
+
+**The completed form can be emailed to admissions@marianopolis.edu**
+
+**We recommend the following:**
+
+**Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). The deadline to submit a change is Friday, February 25. **
+
+**We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.**
 
 ## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)
 
@@ -39,4 +55,4 @@ Recent articles published by the Marianopolis staff and recruit team. Click on t
 
 ---
 
-*Last updated on Fri Jan. 28, 2022 at 10:40 AM (EST).*
+*Last updated on Fri Jan. 28, 2022 at 22:37 PM (EST).*
