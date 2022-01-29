@@ -81,16 +81,20 @@ def scrape():
     """
     if (check_url(url_adm) == 0) and (check_url(url_cal) == 0):
         with open("README.md", "w") as f:
-            # Write introduction and some headings
+            # Set horizontal rule Markdown syntax to variable to print/write after each section
+            hr = "---\n\n"
+
+            # Write introduction, Web Scrape workflow badge and some headings
             f.write(f"# Marianopolis College updates {year}\n\n")
+            f.write("[![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)\n\n")
             f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice daily thanks to GitHub Actions automation.\n\n")
-            f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n")
-            f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
+            f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n" + hr) # hr = horizontal rule
 
             # Write admissions updates, iterating over and checking all children of the section <div>
-            for update in updates:
-                print(str(update).replace("\n", ""))
-            
+            f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
+
+            # Iterate over all children of the update section <div>
+            for update in updates:         
                 # Write with bold and underline formatting if text is wrapped in <span> tags (the update "title")
                 # All spans used seem to have `style="text-decoration: underline;"`
                 if update.find("span"):
@@ -102,7 +106,10 @@ def scrape():
                 else:
                     update_text = normalize(update.text).strip()
                     f.write(update_text + "\n\n")
+            # Suggest source link/page to readers as the scraper doesn't preserve rich text/hyperlinks
+            f.write("***Go to the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***\n\n" + hr)
 
+            # Write calendar names and their corresponding links
             f.write("## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
             f.write("Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:\n\n")
 
@@ -113,9 +120,10 @@ def scrape():
                 # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
                 if "calendar" in calendar_title.lower():
                     f.write(f"- *{calendar_title}:* {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
+            f.write("\n" + hr) # Newline and horizontal rule in between two sections
 
             # Write current year's admissions articles
-            f.write("\n## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
+            f.write("## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
             f.write("Recent articles published by the Marianopolis staff and recruit team. Click on the title(s) to read the full text:\n\n")
             # Prepare table (head and separator)
             f.write("| Article | Publish Date | Excerpt |\n")
@@ -140,7 +148,7 @@ def scrape():
             day = timestamp.strftime("%a %b. %d, %Y")
             time = timestamp.strftime("%H:%M %p")
             # Write horizontal rule before timestamp
-            f.write("\n---\n\n")
+            f.write("\n" + hr)
             f.write(f"*Last updated on {day} at {time} (EST).*")
 
 if __name__ == "__main__":
