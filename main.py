@@ -22,11 +22,10 @@ def check_url(url):
     else:
         return 0
 
-
 def normalize(text):
     # Replace smart quotes/apostrophes and normalize unicode 
-    # (unicodedata hasn't been replacing smart quotes, so it's being done separately)
-    normalized = unicodedata.normalize("NFKD", text.replace("\u2019", "'"))
+    # (unicodedata hasn't been replacing smart quotes or EN/EM dashes, so it's being done separately)
+    normalized = unicodedata.normalize("NFKD", text.replace("\u2019", "'").replace("\u2013", "-").replace("\u2014", "-"))
     return normalized
 
 def scrape():
@@ -45,10 +44,10 @@ def scrape():
     The class list/selector used below is quite specific due to it being a WordPress site.
     Depending on the site structure after new updates are posted, this may need to be modified.
     """
-    update_section = soup.find("div", class_ = "x-section e4336-11 m3cg-0 m3cg-3 m3cg-4")
+    update_section = soup.find("div", class_ = "x-text e4336-14 m3cg-b m3cg-d")
 
     # Search for paragraphs containing updates
-    updates = update_section.find_all("p")
+    updates = update_section.children
 
     """
     Scrape calendars (links)
@@ -88,15 +87,20 @@ def scrape():
             f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n")
             f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
 
-            # Write admissions updates
+            # Write admissions updates, iterating over and checking all children of the section <div>
             for update in updates:
+                print(str(update).replace("\n", ""))
             
-                # Write with bold formatting if the text is wrapped in <strong> tags (the update "title")
-                if update.find("strong"):
-                    update_text = normalize(update.text)
-                    f.write(f"**{update_text}**\n\n")
+                # Write with bold and underline formatting if text is wrapped in <span> tags (the update "title")
+                # All spans used seem to have `style="text-decoration: underline;"`
+                if update.find("span"):
+                    # Ensure there's more than a newline to avoid injecting empty formatting tags
+                    # If the text content contains more than a newline, wrap in `strong`` and `u` tags
+                    if update.text != "\n":
+                        update_text = normalize(update.text).strip()
+                        f.write(f"<strong><u>{update_text}</u></strong>\n\n")
                 else:
-                    update_text = normalize(update.text)
+                    update_text = normalize(update.text).strip()
                     f.write(update_text + "\n\n")
 
             f.write("## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
@@ -117,17 +121,19 @@ def scrape():
             f.write("| Article | Publish Date | Excerpt |\n")
             f.write("| ------- | ------------ | ------- |\n")
 
+            # For loop with if condition that only retrieves information of articles published in current year
             for article in articles:
                 if str(year) in (article.select_one("p.p-meta > span > time.entry-date").text):
-                    article_title = normalize(article.find("h2", class_ = "entry-title").text).strip("\n") # Get entry title
+                    # Get entry title (the .strip removes newlines, tabs and returns to prevent Markdown rendering errors)
+                    article_title = normalize(article.find("h2", class_ = "entry-title").text).strip()
                     article_excerpt = article.find("div", class_ = "entry-content excerpt") # Get excerpt div (contains links and snippets/summaries)
 
                     article_pubdate = normalize(article.select_one("p.p-meta > span > time.entry-date").text) # Get publish date in text form
-                    article_link = article_excerpt.find("a")["href"].strip("\n") # Get article link (scraped from the "Read More" link button in the excerpt divs)
+                    article_link = article_excerpt.find("a")["href"].strip() # Get article link (scraped from the "Read More" link button in the excerpt divs)
                     article_snippet = normalize(article_excerpt.find("p").text) # Get snippets/summaries of the articles
 
                     # Write article data to table row (Markdown)
-                    f.write(f"| [{article_title}]({article_link}) | {article_pubdate} | {article_snippet} |\n")
+                    f.write(f"| [{article_title}]({article_link}) |{article_pubdate} | {article_snippet}|\n")
 
             # Retrieve and write (current) timestamp of the last scraper and URL check run
             timestamp = datetime.now(timezone('America/Toronto')) # Convert to EST timezone (Toronto is a commonly used standard timezone that matches our purposes)
