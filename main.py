@@ -87,7 +87,7 @@ def scrape():
             # Write introduction, Web Scrape workflow badge and some headings
             f.write(f"# Marianopolis College updates {year}\n\n")
             f.write("[![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)\n\n")
-            f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice daily thanks to GitHub Actions automation.\n\n")
+            f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice a day thanks to GitHub Actions automation.\n\n")
             f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n" + hr) # hr = horizontal rule
 
             # Write admissions updates, iterating over and checking all children of the section <div>
@@ -95,19 +95,19 @@ def scrape():
 
             # Iterate over all children of the update section <div>
             for update in updates:         
-                # Write with bold and underline formatting if text is wrapped in <span> tags (the update "title")
-                # All spans used seem to have `style="text-decoration: underline;"`
+                # Write as <h3> if text is wrapped in <span> tags (the update "title")
+                # All spans used seem to have `style="text-decoration: underline;"`, meaning they should be emphasized
                 if update.find("span"):
                     # Ensure there's more than a newline to avoid injecting empty formatting tags
-                    # If the text content contains more than a newline, wrap in `strong`` and `u` tags
+                    # If the text content contains more than a newline, make it a level 3 heading
                     if update.text != "\n":
                         update_text = normalize(update.text).strip()
-                        f.write(f"<strong><u>{update_text}</u></strong>\n\n")
+                        f.write(f"### {update_text}\n\n")
                 else:
                     update_text = normalize(update.text).strip()
                     f.write(update_text + "\n\n")
             # Suggest source link/page to readers as the scraper doesn't preserve rich text/hyperlinks
-            f.write("***Go to the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***\n\n" + hr)
+            f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***\n\n" + hr)
 
             # Write calendar names and their corresponding links
             f.write("## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
