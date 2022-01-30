@@ -124,7 +124,7 @@ def scrape():
 
             # Write current year's admissions articles
             f.write("## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
-            f.write("Recent articles published by the Marianopolis staff and recruit team. Click on the title(s) to read the full text:\n\n")
+            f.write("Recent articles published by the Marianopolis staff and recruitment team. Click on the title(s) to read the full text:\n\n")
             # Prepare table (head and separator)
             f.write("| Article | Publish Date | Excerpt |\n")
             f.write("| ------- | ------------ | ------- |\n")
