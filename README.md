@@ -2,7 +2,7 @@
 
 [![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)
 
-This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice daily thanks to GitHub Actions automation.
+This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice a day thanks to GitHub Actions automation.
 
 *Refer to [DOCS.md](DOCS.md) for this repository's documentation.*
 
@@ -10,15 +10,15 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-<strong><u>Fall 2022 Admissions</u></strong>
+### Fall 2022 Admissions
 
 The online application system is now open as of  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online.
 
-<strong><u>Admissions Information Evening</u></strong>
+### Admissions Information Evening
 
 Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from our expert College staff.
 
-<strong><u>Virtual events series - meet our student ambassadors!</u></strong>
+### Virtual events series - meet our student ambassadors!
 
 February 1 - All about student life and activities
 February 9 - All about studying in English for the first time
@@ -26,11 +26,11 @@ February 21 - All about the difference between Marianopolis and high school
 
 Learn more and register for the events.
 
-<strong><u>Applying to Music or a Music Double DEC program</u></strong>
+### Applying to Music or a Music Double DEC program
 
 If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
 
-<strong><u>Change of program(s) selected in your online Application</u></strong>
+### Change of program(s) selected in your online Application
 
 If you would like to change your application program Choice 1 and/or Choice 2, please download and complete the form and have it signed by a parent.
 
@@ -56,7 +56,7 @@ Please note: Requests will be processed once a week and any new required documen
 
 We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
 
-***Go to the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
+***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
 
 ---
 
@@ -73,7 +73,7 @@ Looking for Marianopolis' course and academic calendars? See the list below for 
 
 ## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)
 
-Recent articles published by the Marianopolis staff and recruit team. Click on the title(s) to read the full text:
+Recent articles published by the Marianopolis staff and recruitment team. Click on the title(s) to read the full text:
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
@@ -83,4 +83,4 @@ Recent articles published by the Marianopolis staff and recruit team. Click on t
 
 ---
 
-*Last updated on Sun Jan. 30, 2022 at 09:46 AM (EST).*
+*Last updated on Sun Jan. 30, 2022 at 21:50 PM (EST).*
