@@ -10,15 +10,15 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-### Fall 2022 Admissions
+Fall 2022 Admissions
 
-The online application system is now open as of  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online.
+The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online.
 
-### Admissions Information Evening
+Admissions Information Evening
 
 Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from our expert College staff.
 
-### Virtual events series - meet our student ambassadors!
+Virtual events series: meet our student ambassadors!
 
 February 1 - All about student life and activities
 February 9 - All about studying in English for the first time
@@ -26,15 +26,13 @@ February 21 - All about the difference between Marianopolis and high school
 
 Learn more and register for the events.
 
-### Applying to Music or a Music Double DEC program
+Applying to Music or a Music Double DEC program
 
 If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
 
-### Change of program(s) selected in your online Application
+Changing the program(s) you selected in your online application
 
-If you would like to change your application program Choice 1 and/or Choice 2, please download and complete the form and have it signed by a parent.
-
-The completed form can be emailed to admissions@marianopolis.edu
+If you would like to change your application program Choice 1 and/or Choice 2, please download and complete this form and have it signed by a parent. The completed form can be emailed to admissions@marianopolis.edu
 
 Please name your document: 223-xxxx-Last Name, First name
 
@@ -45,11 +43,7 @@ The subject line of the email should be: Application: Change of program choice
 We recommend the following:
 
 Always indicate as a first-choice program one that requires a higher entrance requirement than your second-choice program
-Don't apply to profiles in the same program with the same entrance requirements
-
-For example 200.B1 Health Science and 200.B2 Pure and Applied - these choices have the same entrance requirements
-
-
+Don't apply to profiles in the same program with the same entrance requirements. For example 200.B1 Health Science and 200.B2 Pure and Applied - these choices have the same entrance requirements
 Music and Music Double DECs should always be selected as a first-choice program because of the audition requirements
 
 Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). The deadline to submit a change is Friday, February 25.
@@ -83,4 +77,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Mon Jan. 31, 2022 at 09:46 AM (EST).*
+*Last updated on Mon Jan. 31, 2022 at 21:52 PM (EST).*
