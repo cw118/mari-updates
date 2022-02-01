@@ -73,8 +73,7 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 | ------- | ------------ | ------- |
 | [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) | January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ... |
 | [Apply Now for Fall 2022](https://www.bemarianopolis.ca/apply-fall/) | January 13, 2022 | Our online application portal is now open! Don't forget that the deadline to apply is March 1. A few tips before you apply online: Research your program of interest to make an informed decision. Remember, you can choose a first-choice ... |
-| [Virtual Admissions Information Evening](https://www.bemarianopolis.ca/admissions-info-evening/) | January 4, 2022 | Our Admissions Information Evening will be held online Monday, January 31, 2022, from 4 to 7 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from ... |
 
 ---
 
-*Last updated on Mon Jan. 31, 2022 at 21:52 PM (EST).*
+*Last updated on Tue Feb. 01, 2022 at 09:46 AM (EST).*
