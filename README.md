@@ -14,10 +14,6 @@ Fall 2022 Admissions
 
 The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online.
 
-Admissions Information Evening
-
-Our virtual Admissions Information Evening will take place Monday, January 31, 2022, 4:00-7:00 p.m. This event will help you prepare for applying to Marianopolis College and it's a great opportunity for you to get specific information from our expert College staff.
-
 Virtual events series: meet our student ambassadors!
 
 February 1 - All about student life and activities
@@ -37,6 +33,7 @@ If you would like to change your application program Choice 1 and/or Choice 2, p
 Please name your document: 223-xxxx-Last Name, First name
 
 Indicate the student number you received when you submitted your application
+
 
 The subject line of the email should be: Application: Change of program choice
 
@@ -76,4 +73,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Feb. 01, 2022 at 09:46 AM (EST).*
+*Last updated on Tue Feb. 01, 2022 at 21:50 PM (EST).*
