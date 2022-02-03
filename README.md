@@ -47,6 +47,26 @@ Please note: Requests will be processed once a week and any new required documen
 
 We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
 
+Programs that should be selected as first-choice programs
+
+We recommend that the following programs be selected as first-choice programs on the application because of the application requirements (letters of intent, auditions, etc), limited enrolment and evaluation of file.
+
+Music
+Music Double DECs
+Arts and Sciences
+Liberal Arts
+Math and Finance
+Honours Science
+
+Which grades do I need to provide?
+
+If you are studying in a Québec high school, most high schools will transmit the grades directly to SRAM which we will have access to. You do not need to send in your grades.
+
+The only exception for Québec high school students are the following:
+
+If your high school does not transmit to SRAM, you need to upload your Secondary V/Grade 11 mid-term grades. We will obtain your Secondary IV/Grade 10 grades directly from the Ministry of Education.
+If you have studied in a Québec high school only since Secondary V/Grade 11, please upload your Grade 9 and 10 report cards from your previous high schools.
+
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
 
 ---
@@ -73,4 +93,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Feb. 02, 2022 at 21:50 PM (EST).*
+*Last updated on Thu Feb. 03, 2022 at 09:46 AM (EST).*
