@@ -12,7 +12,7 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 Fall 2022 Admissions
 
-The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online.
+The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online. You can also check the status of your application via Omnivox.
 
 Virtual events series: meet our student ambassadors!
 
@@ -73,4 +73,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Feb. 02, 2022 at 09:46 AM (EST).*
+*Last updated on Wed Feb. 02, 2022 at 21:50 PM (EST).*
