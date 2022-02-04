@@ -43,7 +43,7 @@ Always indicate as a first-choice program one that requires a higher entrance re
 Don't apply to profiles in the same program with the same entrance requirements. For example 200.B1 Health Science and 200.B2 Pure and Applied - these choices have the same entrance requirements
 Music and Music Double DECs should always be selected as a first-choice program because of the audition requirements
 
-Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). The deadline to submit a change is Friday, February 25.
+Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). You will be able to see the change in Omnivox - Consult my File. The deadline to submit a change is Friday, February 25. .
 
 We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
 
@@ -93,4 +93,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Thu Feb. 03, 2022 at 09:46 AM (EST).*
+*Last updated on Thu Feb. 03, 2022 at 21:46 PM (EST).*
