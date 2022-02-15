@@ -1,11 +1,14 @@
 name: Web Scrape
 
 on:
-  schedule:
   # Runs once at 9:40 or 10:40 EST (14:30 UTC) and 
   # A second time at 21:40 or 22:40 EST (02:30 UTC) every day
   # The EST hour depends on daylight savings
+  schedule:
     - cron: "40 2,14 * * *"
+  
+  # Allows the workflow to be manually triggered
+  workflow_dispatch:
 
 jobs:
   scrape-latest:
@@ -29,8 +32,7 @@ jobs:
       - name: Commit updates (scrape results)
         uses: EndBug/add-and-commit@v7
         with:
-          add: 'README.md'
-          message: 'Update README after daily scrape'
+          message: 'Update with scraped content or error report'
           author_name: Carolyn Wu
           author_email: 87150472+cw118@users.noreply.github.com
           committer_name: GitHub Actions
