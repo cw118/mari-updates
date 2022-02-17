@@ -49,7 +49,7 @@ We will not be able to consider any changes to your application program Choice 1
 
 Programs that should be selected as first-choice programs
 
-We recommend that the following programs be selected as first-choice programs on the application because of the application requirements (letters of intent, auditions, etc), limited enrolment and evaluation of file.
+We recommend that the following programs be selected as first-choice programs on the application if you are considering one of them because of the application requirements (letters of intent, auditions, etc), limited enrolment and evaluation of file.
 
 Music
 Music Double DECs
@@ -93,4 +93,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Feb. 16, 2022 at 09:42 AM (EST).*
+*Last updated on Wed Feb. 16, 2022 at 21:47 PM (EST).*
