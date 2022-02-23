@@ -14,14 +14,6 @@ Fall 2022 Admissions
 
 The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online. You can also check the status of your application via Omnivox.
 
-Virtual events series: meet our student ambassadors!
-
-February 1 - All about student life and activities
-February 9 - All about studying in English for the first time
-February 21 - All about the difference between Marianopolis and high school
-
-Learn more and register for the events.
-
 Applying to Music or a Music Double DEC program
 
 If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
@@ -47,9 +39,9 @@ Please note: Requests will be processed once a week and any new required documen
 
 We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
 
-Programs that should be selected as first-choice programs
+Programs that should be selected as your first choice
 
-We recommend that the following programs be selected as first-choice programs on the application if you are considering one of them because of the application requirements (letters of intent, auditions, etc), limited enrolment and evaluation of file.
+If you are considering one of the following programs, we recommend that you select it as your first choice on your application, because of the application requirements, limited enrolment and evaluation of your file.
 
 Music
 Music Double DECs
@@ -58,14 +50,12 @@ Liberal Arts
 Math and Finance
 Honours Science
 
-Which grades do I need to provide?
+Providing your grades
 
-If you are studying in a Québec high school, most high schools will transmit the grades directly to SRAM which we will have access to. You do not need to send in your grades.
-
-The only exception for Québec high school students are the following:
+Most Quebec high schools will transmit grades directly to the central admissions system (SRAM, or Service régional d'admission du Montréal métropolitain). You do not need to send in your grades. The only exceptions are:
 
 If your high school does not transmit to SRAM, you need to upload your Secondary V/Grade 11 mid-term grades. We will obtain your Secondary IV/Grade 10 grades directly from the Ministry of Education.
-If you have studied in a Québec high school only since Secondary V/Grade 11, please upload your Grade 9 and 10 report cards from your previous high schools.
+If you have studied in a Quebec high school only since Secondary V/Grade 11, please upload your Grade 9 and 10 report cards from your previous high schools.
 
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
 
@@ -88,9 +78,11 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
+| [Commerce vs. Math and Finance: what's the difference?](https://www.bemarianopolis.ca/8957-2/) | February 1, 2022 | Math and Finance, offered only at Marianopolis, is the newest profile of the College's highly respected Social Science program. Another Social Science profile is Commerce. Learn what makes each of the two unique: Both are for students who love and ... |
 | [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) | January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ... |
 | [Apply Now for Fall 2022](https://www.bemarianopolis.ca/apply-fall/) | January 13, 2022 | Our online application portal is now open! Don't forget that the deadline to apply is March 1. A few tips before you apply online: Research your program of interest to make an informed decision. Remember, you can choose a first-choice ... |
 
 ---
 
-*Last updated on Tue Feb. 22, 2022 at 09:42 AM (EST).*
+*Last updated on Tue Feb. 22, 2022 at 21:52 PM (EST).*
