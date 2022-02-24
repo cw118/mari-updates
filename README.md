@@ -78,6 +78,7 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | February 22, 2022 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
 | [Commerce vs. Math and Finance: what's the difference?](https://www.bemarianopolis.ca/8957-2/) | February 1, 2022 | Math and Finance, offered only at Marianopolis, is the newest profile of the College's highly respected Social Science program. Another Social Science profile is Commerce. Learn what makes each of the two unique: Both are for students who love and ... |
 | [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) | January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ... |
@@ -85,4 +86,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Feb. 23, 2022 at 09:42 AM (EST).*
+*Last updated on Wed Feb. 23, 2022 at 21:55 PM (EST).*
