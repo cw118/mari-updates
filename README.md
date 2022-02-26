@@ -10,11 +10,11 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-Please note: The Fall 2022 application deadline is 11:59 pm on Monday, March 1. The College is on break from Monday, February 28 to Friday, March 4. Documents required to complete your application must be uploaded in Omnivox before the March 1 deadline.
+The Fall 2022 application deadline is 11:59 pm on March 1. Evaluation documents required to complete your application must be uploaded in Omnivox before this deadline. The College is closed from February 28 to March 4.
 
 Fall 2022 Admissions
 
-The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online. You can also check the status of your application via Omnivox.
+The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Applicants must upload any supporting admission documents via Omnivox. Please consult our step-by-step guide before applying online. You can also check the status of your application via Omnivox.
 
 Applying to Music or a Music Double DEC program
 
@@ -88,4 +88,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Fri Feb. 25, 2022 at 09:42 AM (EST).*
+*Last updated on Fri Feb. 25, 2022 at 21:52 PM (EST).*
