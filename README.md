@@ -10,19 +10,17 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-Please take not that the College is closed from February 28 to March 4.
+Please note that the College is closed during the week of February 28; reopening March 7.
 
-Check your Application Status
+Checking your Application Status
 
-March 2 2022 - You can check the status of your application in Omnivox . If the status is "In progress", it means we are evaluating your file. Decisions will begin to be posted as of March 11 and into April.
+You can check the status of your application in Omnivox . If your status says "in progress", it means your file is being evaluated. Decisions will be posted beginning March 11 and into April.
 
-Round 2 Applications
+Fall 2022 Admissions Deadline
 
-March 2 2022 - The March 1 deadline has passed. Applications received after the deadline date will be considered late and only evaluated after all applications have been reviewed, if at all, and only if space is still available within the College.
+The deadline to apply for Fall 2022 admission was March 1 at 11:59 pm. Applicants were required to upload any supporting admission documents via Omnivox before this deadline. Please consult our step-by-step guide.
 
-Fall 2022 Admissions
-
-The online application system opened  Thursday, January 13, 2022. The deadline to apply is Tuesday, March 1, 2022 at 11:59 pm. Applicants must upload any supporting admission documents via Omnivox before this deadline. Please consult our step-by-step guide before applying online. You can also check the status of your application via Omnivox.
+Applications received after the March 1 deadline date will be considered late and will only be evaluated after all applications have been reviewed, if at all, and only if space is still available at the College.
 
 Applying to Music or a Music Double DEC program
 
@@ -45,7 +43,7 @@ Always indicate as a first-choice program one that requires a higher entrance re
 Don't apply to profiles in the same program with the same entrance requirements. For example 200.B1 Health Science and 200.B2 Pure and Applied - these choices have the same entrance requirements
 Music and Music Double DECs should always be selected as a first-choice program because of the audition requirements
 
-Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). You will be able to see the change in Omnivox - Consult my File. The deadline to submit a change is Friday, February 25. .
+Please note: Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example: letter of intent). You will be able to see the change in Omnivox - Consult my File. The deadline to submit a change is February 25. .
 
 We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
 
@@ -96,4 +94,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Mar. 02, 2022 at 09:42 AM (EST).*
+*Last updated on Wed Mar. 02, 2022 at 21:59 PM (EST).*
