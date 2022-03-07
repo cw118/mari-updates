@@ -10,8 +10,6 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-Please note that the College is closed during the week of February 28; reopening March 7.
-
 Checking your Application Status
 
 You can check the status of your application in Omnivox . If your status says "in progress", it means your file is being evaluated. Decisions will be posted beginning March 11 and into April.
@@ -94,4 +92,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Sun Mar. 06, 2022 at 21:57 PM (EST).*
+*Last updated on Mon Mar. 07, 2022 at 09:42 AM (EST).*
