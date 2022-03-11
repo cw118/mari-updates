@@ -14,6 +14,10 @@ Checking your Application Status
 
 You can check the status of your application in Omnivox . If your status says "in progress", it means your file is being evaluated. Decisions will be posted beginning March 11 and into April.
 
+If the status of your application is 'AD- Admission-Admitted', you've been accepted, congratulations! Your official acceptance letter will soon be available in Omnivox along with other documents related to your admission. You can read this Check your status to learn how to access your acceptance letter in Omnivox and how to confirm your acceptance online.
+
+If you are admitted to your first-choice, please note that you will not be evaluated for your second-choice program.
+
 Fall 2022 Admissions Deadline
 
 The deadline to apply for Fall 2022 admission was March 1 at 11:59 pm. Applicants were required to upload any supporting admission documents via Omnivox before this deadline. Please consult our step-by-step guide.
@@ -91,4 +95,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Thu Mar. 10, 2022 at 21:58 PM (EST).*
+*Last updated on Fri Mar. 11, 2022 at 09:42 AM (EST).*
