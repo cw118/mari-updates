@@ -12,11 +12,11 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 Checking your Application Status
 
-You can check the status of your application in Omnivox . If your status says "in progress", it means your file is being evaluated. Decisions will be posted beginning March 11 and into April.
+You can check the status of your application in Omnivox . If your status says "In Progress", it means your file is being evaluated. Decisions will be posted beginning March 11 and into April.
 
-If the status of your application is 'AD- Admission-Admitted', you've been accepted, congratulations! Your official acceptance letter will soon be available in Omnivox along with other documents related to your admission. You can read this Check your status to learn how to access your acceptance letter in Omnivox and how to confirm your acceptance online.
+If the status of your application is "AD- Admission-Admitted", you've been accepted, congratulations! Your official acceptance letter will soon be available in Omnivox along with other documents related to your admission. Learn more about how to access your acceptance letter and how to confirm your acceptance online.
 
-If you are admitted to your first-choice, please note that you will not be evaluated for your second-choice program.
+If you are admitted to your first-choice program, please note that you will not be evaluated for your second-choice program.
 
 Fall 2022 Admissions Deadline
 
@@ -88,6 +88,7 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [The myth about competition](https://www.bemarianopolis.ca/the-myth-about-competition/) | March 14, 2022 | Like many others at the College, Stephanie Wang wanted to put to rest the rumour that Marianopolis students compete with each other. Knowing what it's really like to be a Marianopolis student and with a love of computer programming, she ... |
 | [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 2, 2022 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
 | [Commerce vs. Math and Finance: what's the difference?](https://www.bemarianopolis.ca/8957-2/) | February 1, 2022 | Math and Finance, offered only at Marianopolis, is the newest profile of the College's highly respected Social Science program. Another Social Science profile is Commerce. Learn what makes each of the two unique: Both are for students who love and ... |
@@ -96,4 +97,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Sun Mar. 13, 2022 at 22:57 PM (EST).*
+*Last updated on Mon Mar. 14, 2022 at 22:58 PM (EST).*
