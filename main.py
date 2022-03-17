@@ -87,7 +87,7 @@ def scrape():
             # Write introduction, Web Scrape workflow badge and some headings
             f.write(f"# Marianopolis College updates {year}\n\n")
             f.write("[![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)\n\n")
-            f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice a day thanks to GitHub Actions automation.\n\n")
+            f.write("This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo once a day thanks to GitHub Actions automation.\n\n")
             f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n" + hr) # hr = horizontal rule
 
             # Write admissions updates, iterating over and checking all children of the section <div>
