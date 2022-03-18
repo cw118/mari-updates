@@ -2,7 +2,7 @@
 
 [![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)
 
-This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo twice a day thanks to GitHub Actions automation.
+This runs on a web scraper built with Python and Beautiful Soup, which updates and writes to the README in this repo once a day thanks to GitHub Actions automation.
 
 *Refer to [DOCS.md](DOCS.md) for this repository's documentation.*
 
@@ -97,4 +97,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Mar. 16, 2022 at 22:58 PM (EST).*
+*Last updated on Thu Mar. 17, 2022 at 23:01 PM (EST).*
