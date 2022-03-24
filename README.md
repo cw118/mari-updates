@@ -10,6 +10,10 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
+Evaluation of Admission Files Ongoing
+
+Your status may still say ‘In progress' as we are still evaluating files. Please continue to check your status regularly.
+
 Checking your Application Status
 
 You can check the status of your application in Omnivox . If your status says "In Progress", it means your file is being evaluated. Decisions will be posted beginning March 11 and into April.
@@ -97,4 +101,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Mar. 22, 2022 at 23:13 PM (EST).*
+*Last updated on Wed Mar. 23, 2022 at 23:05 PM (EST).*
