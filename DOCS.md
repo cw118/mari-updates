@@ -35,7 +35,7 @@ The workflow responsible for running the scraper is named "Web Scrape", and can 
 - The "Execute scraper script" step: run/interpret the `main.py` Python web scraping script
 - The [Add & Commit](https://github.com/EndBug/add-and-commit) action (*"Commit updates (scrape results)"*): commit changes made in previous steps of this workflow directly to the repo, sets me as the commit author and GitHub Actions as the committer
 
-The entire workflow runs on a `schedule` thanks to this `cron` syntax: `"30 3,15 * * *"`. This causes the workflow to run at 03:30 AM and PM (UTC) every day, thereby scraping the sites and updating the README accordingly.
+The entire workflow currently runs on a `schedule` thanks to this `cron` syntax: `"40 2 * * *"` *(subject to change)*. This causes the workflow to run at 02:40 AM (UTC) every day, thereby scraping the sites and updating the README accordingly.
 
 ### Troubleshooting
 
