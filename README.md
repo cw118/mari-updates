@@ -12,7 +12,13 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 Evaluation of Admission Files Ongoing
 
-Your status may still say ‘In progress' as we are still evaluating files. Please continue to check your status regularly.
+Admissions Update April 7, 2022
+
+We are still assessing applications but our programs are filling up. As a gentle reminder, the number of offers we make depends on the quantity of applications, the strength of the applicant pool and the number of spots available in any given program.
+
+We have received more applications this fall compared to last year and the year before. The applicant pool in all programs is extremely strong , which means we may not reach our historical averages this year.
+
+We are monitoring our confirmations closely as this will determine if we can offer more spots in our programs in the coming weeks.
 
 Checking your Application Status
 
@@ -26,43 +32,11 @@ Fall 2022 Admissions Deadline
 
 The deadline to apply for Fall 2022 admission was March 1 at 11:59 pm. Applicants were required to upload any supporting admission documents via Omnivox before this deadline. Please consult our step-by-step guide.
 
-Applications received after the March 1 deadline date will be considered late and will only be evaluated after all applications have been reviewed, if at all, and only if space is still available at the College.
+Applications received after the March 1 deadline date will be considered late and will only be evaluated after all applications have been reviewed, if at all, and only if space is still available at the College. As of April 7, the online application is closed as we are not accepting any new applications.
 
 Applying to Music or a Music Double DEC program
 
 If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
-
-Changing the program(s) you selected in your online application
-
-If you would like to change your application program Choice 1 and/or Choice 2, please download and complete this form and have it signed by a parent. The completed form can be emailed to admissions@marianopolis.edu
-
-Please name your document: 223-xxxx-Last Name, First name
-
-Indicate the student number you received when you submitted your application
-
-
-The subject line of the email should be: Application: Change of program choice
-
-We recommend the following:
-
-Always indicate as a first-choice program one that requires a higher entrance requirement than your second-choice program
-Don't apply to profiles in the same program with the same entrance requirements. For example 200.B1 Health Science and 200.B2 Pure and Applied - these choices have the same entrance requirements
-Music and Music Double DECs should always be selected as a first-choice program because of the audition requirements
-
-Requests will be processed once a week and any new required documents to submit will be posted in Omnivox (for example, letter of intent). You will be able to see the change in Omnivox under "Consult My File." The deadline to submit a change request is February 25.
-
-We will not be able to consider any changes to your application program Choice 1 and/or Choice 2 until after April 4. More information to follow.
-
-Programs that should be selected as your first choice
-
-If you are considering one of the following programs, we recommend that you select it as your first choice on your application, because of the application requirements, limited enrolment and evaluation of your file.
-
-Music
-Music Double DECs
-Arts and Sciences
-Liberal Arts
-Math and Finance
-Honours Science
 
 Providing your grades
 
@@ -101,4 +75,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Apr. 06, 2022 at 23:13 PM (EST).*
+*Last updated on Thu Apr. 07, 2022 at 22:53 PM (EST).*
