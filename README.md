@@ -12,11 +12,11 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 Evaluation of Admission Files Ongoing
 
-Admissions Update April 7, 2022
+Update of April 7, 2022
 
-We are still assessing applications but our programs are filling up. As a gentle reminder, the number of offers we make depends on the quantity of applications, the strength of the applicant pool and the number of spots available in any given program.
+We are still assessing applications and our programs are filling up. As a gentle reminder, the number of admissions offers we make depends on the quantity of applications, the strength of the applicant pool and the number of spots available in any given program.
 
-We have received more applications this fall compared to last year and the year before. The applicant pool in all programs is extremely strong , which means we may not reach our historical averages this year.
+We have received more applications for Fall 2022 compared to last year and the year before. The applicant pool in all programs is extremely strong , which means we may not reach our historical averages this year.
 
 We are monitoring our confirmations closely as this will determine if we can offer more spots in our programs in the coming weeks.
 
@@ -38,7 +38,7 @@ Applying to Music or a Music Double DEC program
 
 If you have submitted an application to our Music program or one of our Music Double DEC programs (Music-Science, Music-Social Science or Music-ALC), you need to complete a pre-audition as part of the application process. If you have not yet completed one, please contact Hugh Cawker, Music Program Coordinator.
 
-Providing your grades
+Providing Your Grades
 
 Most Quebec high schools will transmit grades directly to the central admissions system (SRAM, or Service régional d'admission du Montréal métropolitain). You do not need to send in your grades. The only exceptions are:
 
@@ -75,4 +75,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Sun Apr. 10, 2022 at 23:00 PM (EST).*
+*Last updated on Mon Apr. 11, 2022 at 22:52 PM (EST).*
