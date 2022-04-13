@@ -12,13 +12,13 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 Evaluation of Admission Files Ongoing
 
-Update of April 7, 2022
+Update of April 12, 2022
 
 We are still assessing applications and our programs are filling up. As a gentle reminder, the number of admissions offers we make depends on the quantity of applications, the strength of the applicant pool and the number of spots available in any given program.
 
 We have received more applications for Fall 2022 compared to last year and the year before. The applicant pool in all programs is extremely strong , which means we may not reach our historical averages this year.
 
-We are monitoring our confirmations closely as this will determine if we can offer more spots in our programs in the coming weeks.
+We are monitoring our confirmations closely as this will determine if we can offer more spots in our programs in the coming weeks. After the confirmation comparison with the Anglo colleges in mid-April, where students are asked to select one college and release spots at other colleges where they are also confirmed, we hope to be able to make more offers of admission.
 
 Checking your Application Status
 
@@ -75,4 +75,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Mon Apr. 11, 2022 at 22:52 PM (EST).*
+*Last updated on Tue Apr. 12, 2022 at 22:55 PM (EST).*
