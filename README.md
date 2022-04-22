@@ -18,7 +18,7 @@ We are still assessing applications and our programs are filling up. As a gentle
 
 We have received more applications for Fall 2022 compared to last year and the year before. The applicant pool in all programs is extremely strong , which means we may not reach our historical averages this year.
 
-We are monitoring our confirmations closely as this will determine if we can offer more spots in our programs in the coming weeks. After the confirmation comparison with the Anglo colleges in mid-April, where students are asked to select one college and release spots at other colleges where they are also confirmed, we hope to be able to make more offers of admission.
+We are monitoring our confirmations closely as this will determine if we can offer more spots in our programs in the coming weeks. After the confirmation comparison with other English colleges in mid-April, where students are asked to select one college and release spots at other colleges where they have also confirmed, we hope to be able to make more offers of admission.
 
 Checking your Application Status
 
@@ -75,4 +75,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Apr. 20, 2022 at 23:16 PM (EST).*
+*Last updated on Thu Apr. 21, 2022 at 23:29 PM (EST).*
