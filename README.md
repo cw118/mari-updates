@@ -12,7 +12,13 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 Evaluation of Admission Files Ongoing
 
-Update of April 12, 2022
+Update April 26, 2022
+
+We have assessed most of our applicant files for all of our programs. We have received questions regarding the RM Verdict Code. This refusal code means that although you have met historical entrance requirements, we have no more space in the requested program.
+
+We will be monitoring our spots over the coming weeks. Should any spots become available in any given program, we will post the information in this section. Currently we are full in most of our programs.
+
+Update April 12, 2022
 
 We are still assessing applications and our programs are filling up. As a gentle reminder, the number of admissions offers we make depends on the quantity of applications, the strength of the applicant pool and the number of spots available in any given program.
 
@@ -75,4 +81,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Mon Apr. 25, 2022 at 23:14 PM (EST).*
+*Last updated on Tue Apr. 26, 2022 at 23:27 PM (EST).*
