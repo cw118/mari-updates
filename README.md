@@ -10,6 +10,32 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
+Diagnostic and placement tests for students starting in fall 2022
+
+Update May 2, 2022
+
+All students who are starting Marianopolis in fall 2022 will have to take at least one placement test in May. All tests take place online.
+
+Students in the following programs must take the Math Diagnostic Test, 5-6 p.m. Tuesday May 3:
+
+Science
+Arts and Sciences
+Music and Science
+ALC and Liberal Arts (only those who selected Math)
+Social Science profiles that include Math: 
+
+Math and Finance
+Commerce
+Two Math
+
+There is no need to study for this test, as it will cover topics you studied in high school. Your results will not affect your admission or be used for placement purposes; they will help us make sure that we make the appropriate adjustments to your Math and Science courses.
+
+Every new student must take the English Placement Test, 5-6 p.m. Tuesday May 10. Your results will not affect your admission (you're admitted!); they will help us place you in the correct course stream for you and identify any support that you may need to succeed as you begin to study at the college level.
+
+Students whose high school grades indicate that they are in two possible levels of French must take the French Placement Test, Monday May 16 to Tuesday May 17. This test does not affect your admission; it helps us place you in the French level that is right for you. It also identifies any support that you may need to succeed as you start to study at the college level.
+
+We will notify you and share more details via a Message in Omnivox (MIO).
+
 Evaluation of Admission Files Ongoing
 
 Update April 26, 2022
@@ -81,4 +107,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Sun May. 01, 2022 at 23:43 PM (EST).*
+*Last updated on Mon May. 02, 2022 at 23:15 PM (EST).*
