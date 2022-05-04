@@ -16,7 +16,7 @@ Update May 2, 2022
 
 All students who are starting Marianopolis in fall 2022 will have to take at least one placement test in May. All tests take place online.
 
-Students in the following programs must take the Math Diagnostic Test, 5-6 p.m. Tuesday May 3:
+Students in the following programs must take the Math Diagnostic Test, 5-6:15 p.m. Tuesday May 3:
 
 Science
 Arts and Sciences
@@ -107,4 +107,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Mon May. 02, 2022 at 23:15 PM (EST).*
+*Last updated on Tue May. 03, 2022 at 23:16 PM (EST).*
