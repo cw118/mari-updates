@@ -10,6 +10,30 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
+Available spots in Liberal Arts and Arts, Literature and Communication for fall 2022
+
+(updated May 16, 2022)
+
+Following our confirmation comparison with other Anglo Colleges, we have some spots that have become available in the following programs:
+
+Liberal Arts
+
+Priority will be given to applicants meeting the incoming cohort average of 78% and above. A letter of intent is required for this program explaining the applicant's interest in the program and why they are a good fit in the program
+
+Arts, Literature and Communication (ALC)
+
+Priority will be given to applicants meeting the incoming cohort average of approximately 76% and above.
+
+Steps to follow:
+
+Already applied to the College for fall 2022
+
+If you have already applied to Marianopolis College, please send an email to admissions@marianopolis.edu and state your interest in the desired program. You will be sent a change of program form to fill out and return by email.
+
+Have not applied to the College for fall 2022
+
+If you have not applied to Marianopolis College, please send an email to admissions@marianopolis.edu and state your interest in the desired program. You will be sent an application form to fill out and return by email. You will need to pay a $50 non-refundable application fee.
+
 Diagnostic and placement tests for Fall 2022 incoming students
 
 Update May 2, 2022
@@ -30,7 +54,7 @@ Two Math
 
 There is no need to study for this test, as it will cover topics you studied in high school. Your results will not affect your admission or be used for placement purposes; they will help us make sure that we make the appropriate adjustments to your Math and Science courses.
 
-Every new student must take the English Placement Test, 5-6 p.m. Tuesday May 10. Your results will not affect your admission; they will help us place you in the correct course stream for you and identify any support that you may need to succeed as you begin to study at the college level.
+Every new student must take the English Placement Test, 5-6 p.m. Tuesday May 10. Your results will not affect your admission; this will help us place you in the correct course stream and identify any support that you may need to succeed as you begin to study at the college level.
 
 Students whose high school grades indicate that they are in two possible levels of French must take the French Placement Test, Monday May 16 to Tuesday May 17. Your results will not affect your admission; they will helps us place you in the French level that is right for you and identify any support that you may need to succeed as you start to study at the college level.
 
@@ -107,4 +131,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Sun May. 15, 2022 at 22:52 PM (EST).*
+*Last updated on Mon May. 16, 2022 at 23:16 PM (EST).*
