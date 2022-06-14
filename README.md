@@ -10,6 +10,21 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
+Registrar Services - Summer Hours
+
+(updated June 13, 2022)
+
+Registrar Services will close at 1:30 pm on Fridays from June 17 to August 12, 2022.
+
+Hours:
+
+Monday: 9:30am-4:30pm
+Tuesday to Thursday: 8:30am-4:30pm
+Friday: 8:30am-1:30pm
+Closed daily between 12:30pm-1:30pm
+
+In addition, the office will close from July 25 to August 5, 2022.
+
 Available spots in Liberal Arts and Arts, Literature and Communication for fall 2022
 
 (updated May 16, 2022)
@@ -132,4 +147,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Sun Jun. 12, 2022 at 23:21 PM (EST).*
+*Last updated on Mon Jun. 13, 2022 at 23:35 PM (EST).*
