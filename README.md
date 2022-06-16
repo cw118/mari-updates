@@ -147,4 +147,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Jun. 14, 2022 at 23:25 PM (EST).*
+*Last updated on Wed Jun. 15, 2022 at 23:15 PM (EST).*
