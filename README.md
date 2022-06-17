@@ -21,9 +21,33 @@ Hours:
 Monday: 9:30am-4:30pm
 Tuesday to Thursday: 8:30am-4:30pm
 Friday: 8:30am-1:30pm
-Closed daily between 12:30pm-1:30pm
+Closed daily between 12:30pm-1:30pm, Monday to Thursday
 
 In addition, the office will close from July 25 to August 5, 2022.
+
+Re-evaluations for Fall 2022
+
+If you would like to submit a re-evaluation for fall 2022 to the Admissions Office, please read the instructions below to verify which category you fall under.
+
+Category A
+
+You are attending Marianopolis in the fall but would like to be re-evaluated for another program.
+
+Please fill out the Re-evaluation form and submit it along with your final report card at admissions@marianopolis.edu
+
+Category B
+
+You applied by the March 1st deadline but was not offered a spot at the college in any program.
+
+Please fill out the Re-evaluation form and submit it along with your final report card at admissions@marianopolis.edu
+
+Please note:
+
+Deadline to submit a request is Tuesday, July 5.
+Email a PDF of your final report card along with the re-evaluation form.
+Priority will be given to students who meet the admission criteria of the incoming cohort in the selected program and only if space is available.
+No additional fee is required at this time.
+Decisions regarding your re-evaluation will go out week of July 11 by email.
 
 Available spots in Liberal Arts and Arts, Literature and Communication for fall 2022
 
@@ -147,4 +171,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Jun. 15, 2022 at 23:15 PM (EST).*
+*Last updated on Thu Jun. 16, 2022 at 23:17 PM (EST).*
