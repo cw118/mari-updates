@@ -148,8 +148,6 @@ If you have studied in a Quebec high school only since Secondary V/Grade 11, ple
 
 Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:
 
-- *Fall 2021 Academic Calendar:* http://www.marianopolis.edu/wp-content/uploads/2021/08/Fall-2021-Academic-Calendar-August-5.pdf
-- *Winter 2022 Academic Calendar:* http://www.marianopolis.edu/wp-content/uploads/2022/01/Winter-2022-Academic-Calendar-Jan-13.pdf
 - *2022-2023 Academic Calendar:* http://www.marianopolis.edu/wp-content/uploads/2022/05/2022-2023-Academic-Calendar.pdf
 - *Course Calendar 2022-2023:* https://marianopolis-college.dcatalog.com/v/2022-2023-Marianopolis-Calendar/
 - *Course Calendar 2021-2022:* https://marianopolis-college.dcatalog.com/v/2021-2022-Calendar/
@@ -171,4 +169,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Thu Jul. 14, 2022 at 23:40 PM (EST).*
+*Last updated on Fri Jul. 15, 2022 at 23:18 PM (EST).*
