@@ -160,13 +160,13 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Registrar Services Summer Hours](https://www.bemarianopolis.ca/summer-hours/) | June 14, 2022 | Registrar Services is operating on reduced summer hours until August 12, 2022: Monday 9:30 a.m. - 12:30 p.m. and 1:30 p.m. - 4:30 p.m.Tuesday - Thursday 8:30 a.m. - 12:30 p.m. and 1:30 p.m. - 4:30 p.m.Friday 8:30 a.m. - ... |
 | [Scholarship supports next-generation engineers](https://www.bemarianopolis.ca/scholarship-supports-next-generation-engineers/) | May 17, 2022 | Marianopolis College and the Marianopolis Millennium Foundation are pleased to announce the creation of a new entrance scholarship beginning in Fall 2022. The Gestion Luciano Salvatore Engineering Scholarship ($1500) will recognize an incoming student in any program who plans to pursue ... |
 | [The myth about competition](https://www.bemarianopolis.ca/the-myth-about-competition/) | March 14, 2022 | Like many others at the College, Stephanie Wang wanted to put to rest the rumour that Marianopolis students compete with each other. Knowing what it's really like to be a Marianopolis student and with a love of computer programming, she ... |
 | [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 2, 2022 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
 | [Commerce vs. Math and Finance: what's the difference?](https://www.bemarianopolis.ca/8957-2/) | February 1, 2022 | Math and Finance, offered only at Marianopolis, is the newest profile of the College's highly respected Social Science program. Another Social Science profile is Commerce. Learn what makes each of the two unique: Both are for students who love and ... |
+| [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) | January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ... |
 
 ---
 
-*Last updated on Wed Aug. 31, 2022 at 23:57 PM (EST).*
+*Last updated on Fri Sep. 02, 2022 at 00:02 AM (EST).*
