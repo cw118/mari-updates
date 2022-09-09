@@ -1,6 +1,6 @@
 beautifulsoup4==4.11.1
 certifi==2022.6.15
-charset-normalizer==2.1.1
+charset-normalizer>=2.0.0
 idna==3.3
 lxml==4.9.1
 pycodestyle==2.8.0
