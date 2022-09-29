@@ -23,15 +23,11 @@ Social Science - Global Studies and International Affairs
 Social Science - Law, Society and Justice
 Social Science - Psychology
 
-Please verify the entrance requirements before applying. Applicants from international institutions must also read carefully our instructions for international students and must upload valid immigration documents at the same as their supporting admissions documents.
-
-Decisions will be posted in Omnivox throughout the month of November.
+Please verify the entrance requirements before applying and read our step-by-step guide. Decisions will be posted in Omnivox throughout the month of November.
 
 Fall 2023 Admissions
 
 The online application system will open in January 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox.
-
-Please consult our step-by-step guide before applying online.
 
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
 
@@ -53,7 +49,7 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Apply for Winter 2023](https://www.bemarianopolis.ca/apply-fall/) | September 27, 2022 | The online application system for Winter 2023 admissions will open on September 30, 2022. The deadline to apply is November 1, 2022 at 11:59 p.m. Available programs for Winter 2023 admissions are: Arts, Literature and Communication Health Science Pure and ... |
+| [Apply for Winter 2023](https://www.bemarianopolis.ca/apply-winter/) | September 27, 2022 | The online application system for Winter 2023 admissions will open on September 30, 2022. The deadline to apply is November 1, 2022 at 11:59 p.m. Available programs for Winter 2023 admissions are: Arts, Literature and Communication Health Science Pure and ... |
 | [The myth about competition](https://www.bemarianopolis.ca/the-myth-about-competition/) | March 14, 2022 | Like many others at the College, Stephanie Wang wanted to put to rest the rumour that Marianopolis students compete with each other. Knowing what it's really like to be a Marianopolis student and with a love of computer programming, she ... |
 | [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 2, 2022 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
@@ -62,4 +58,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Sep. 28, 2022 at 00:05 AM (EST).*
+*Last updated on Thu Sep. 29, 2022 at 00:07 AM (EST).*
