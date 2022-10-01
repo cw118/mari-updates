@@ -22,7 +22,9 @@ Social Science - General
 Social Science - Law, Society and Justice
 Social Science - Psychology
 
-Please verify the entrance requirements before applying and read our step-by-step guide. Applicants from international institutions must also read carefully our instructions for international students and must upload valid immigration documents at the same as their supporting admissions documents.
+Please verify the entrance requirements before applying and read our step-by-step guide.
+
+International students must have valid immigration documents for Collegial/Post-Secondary studies (Study Permit and CAQ) before applying and submit them at the same time as their supporting application documents.
 
 Decisions will be posted in Omnivox throughout the month of November.
 
@@ -59,4 +61,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Fri Sep. 30, 2022 at 00:19 AM (EST).*
+*Last updated on Sat Oct. 01, 2022 at 00:16 AM (EST).*
