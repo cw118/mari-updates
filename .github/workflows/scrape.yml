@@ -1,10 +1,10 @@
 name: Web Scrape
 
 on:
-  # Runs once at 20:40 or 21:40 EST (01:40 UTC) every day
+  # Runs once at 19:45 or 20:45 EST (00:45 UTC) every day
   # The EST hour depends on daylight savings
   schedule:
-    - cron: "40 1 * * *"
+    - cron: "45 0 * * *"
   
   # Allows the workflow to be manually triggered
   workflow_dispatch:
