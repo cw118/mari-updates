@@ -10,7 +10,10 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-### Winter 2023 Admissions
+Eligibility for college education in English
+If you have questions about eligibility for college education in English or how the Charter of the French Language applies at the college level, the Ministry of Higher Education encourages you to visit the following websites:
+
+### Application of the Charter of the French Language in collegeApplication de la Chartre de la langue française au collégialWinter 2023 Admissions
 The application module for Winter 2023 admissions is now closed. You can check the status of your application in Omnivox. If the status is "in progress" it means we are evaluating your file.
 
 Fall 2023 Admissions
@@ -44,4 +47,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Nov. 22, 2022 at 07:57 AM (EST).*
+*Last updated on Tue Nov. 22, 2022 at 21:05 PM (EST).*
