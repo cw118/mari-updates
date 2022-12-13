@@ -35,7 +35,7 @@ def scrape():
     Scrape admissions updates
     """
     # Grab HTML of the corresponding site
-    url_adm = "https://www.bemarianopolis.ca/admissions/admissions-updates/"
+    url_adm = "https://www.bemarianopolis.ca/admissions/admissions/"
     html_adm = requests.get(url_adm).text
 
     soup = BeautifulSoup(html_adm, "lxml") # Parse with LXML parser
