@@ -10,14 +10,13 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
+Fall 2023 Applications
+The online application system will open in January 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admissions documents via Omnivox. Please consult our entrance requirements and our step-by-step guide before applying online.
+
 Eligibility for college education in English
 If you have questions about eligibility for college education in English or how the Charter of the French Language applies at the college level, the Ministry of Higher Education encourages you to visit the following websites:
 
-### Application of the Charter of the French Language in collegeApplication de la Chartre de la langue française au collégialWinter 2023 Admissions
-The application module for Winter 2023 admissions is now closed. You can check the status of your application in Omnivox. If the status is "in progress" it means we are evaluating your file.
-
-Fall 2023 Admissions
-The online application system will open in January 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admission documents via Omnivox.
+### Application of the Charter of the French Language in collegeApplication de la Chartre de la langue française au collégial
 
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
 
@@ -39,13 +38,13 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | December 12, 2022 | The online application system for Fall 2023 admissions will open in January 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will regularly ... |
 | [Student for a Day](https://www.bemarianopolis.ca/student-for-a-day/) | November 28, 2022 | Want to know what it's really like to be a Marianopolis student? Now you can experience it for yourself! We will pair you with a Marianopolis student ambassador in the program of your choice. You will have the chance to ... |
 | [The myth about competition](https://www.bemarianopolis.ca/the-myth-about-competition/) | October 5, 2022 | Like many others at the College, Stephanie Wang wanted to put to rest the rumour that Marianopolis students compete with each other. Knowing what it's really like to be a Marianopolis student and with a love of computer programming, she ... |
 | [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 2, 2022 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
 | [Commerce vs. Math and Finance: what's the difference?](https://www.bemarianopolis.ca/8957-2/) | February 1, 2022 | Math and Finance, offered only at Marianopolis, is the newest profile of the College's highly respected Social Science program. Another Social Science profile is Commerce. Learn what makes each of the two unique: Both are for students who love and ... |
-| [Learn about Marianopolis from our student ambassadors](https://www.bemarianopolis.ca/meet-our-student-ambassadors/) | January 25, 2022 | Marianopolis will be holding various virtual events for prospective students throughout the month of February leading up to the application deadline of March 1, 2022. Current and former student ambassadors will talk about their student experience at Marianopolis, while College ... |
 
 ---
 
-*Last updated on Mon Dec. 12, 2022 at 07:50 AM (EST).*
+*Last updated on Tue Dec. 13, 2022 at 13:13 PM (EST).*
