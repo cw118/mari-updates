@@ -35,7 +35,7 @@ def scrape():
     Scrape admissions updates
     """
     # Grab HTML of the corresponding site
-    url_adm = "https://www.bemarianopolis.ca/admissions/admissions/"
+    url_adm = "https://www.bemarianopolis.ca/admissions/updates/"
     html_adm = requests.get(url_adm).text
 
     soup = BeautifulSoup(html_adm, "lxml") # Parse with LXML parser
@@ -107,7 +107,7 @@ def scrape():
                     update_text = normalize(update.text).strip()
                     f.write(update_text + "\n\n")
             # Suggest source link/page to readers as the scraper doesn't preserve rich text/hyperlinks
-            f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***\n\n" + hr)
+            f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***\n\n" + hr)
 
             # Write calendar names and their corresponding links
             f.write("## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
