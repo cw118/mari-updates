@@ -18,7 +18,7 @@ If you have questions about eligibility for college education in English or how 
 
 ### Application of the Charter of the French Language in collegeApplication de la Chartre de la langue française au collégial
 
-***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/admissions-updates/) for details.***
+***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***
 
 ---
 
@@ -47,4 +47,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Dec. 14, 2022 at 07:49 AM (EST).*
+*Last updated on Wed Dec. 14, 2022 at 21:45 PM (EST).*
