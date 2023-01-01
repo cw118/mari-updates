@@ -1,4 +1,4 @@
-# Marianopolis College updates 2022
+# Marianopolis College updates 2023
 
 [![Web Scrape](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml/badge.svg)](https://github.com/cw118/mari-updates/actions/workflows/scrape.yml)
 
@@ -38,13 +38,7 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | December 12, 2022 | The online application system for Fall 2023 admissions will open in January 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will regularly ... |
-| [Student for a Day](https://www.bemarianopolis.ca/student-for-a-day/) | November 28, 2022 | Want to know what it's really like to be a Marianopolis student? Now you can experience it for yourself! We will pair you with a Marianopolis student ambassador in the program of your choice. You will have the chance to ... |
-| [The myth about competition](https://www.bemarianopolis.ca/the-myth-about-competition/) | October 5, 2022 | Like many others at the College, Stephanie Wang wanted to put to rest the rumour that Marianopolis students compete with each other. Knowing what it's really like to be a Marianopolis student and with a love of computer programming, she ... |
-| [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 2, 2022 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
-| [Arts and Sciences: because you shouldn't have to choose between your passions](https://www.bemarianopolis.ca/arts-and-sciences-because-you-shouldnt-have-to-choose-between-your-passions/) | February 10, 2022 | Why choose between your many interests? Not when the Marianopolis Arts and Sciences program allows you to do a deep dive into a variety of areas of study and prepare for almost every field of university study, including medical school, ... |
-| [Commerce vs. Math and Finance: what's the difference?](https://www.bemarianopolis.ca/8957-2/) | February 1, 2022 | Math and Finance, offered only at Marianopolis, is the newest profile of the College's highly respected Social Science program. Another Social Science profile is Commerce. Learn what makes each of the two unique: Both are for students who love and ... |
 
 ---
 
-*Last updated on Sat Dec. 31, 2022 at 07:42 AM (EST).*
+*Last updated on Sat Dec. 31, 2022 at 21:03 PM (EST).*
