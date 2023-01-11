@@ -11,7 +11,7 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
 Fall 2023 Applications
-The online application system will open in January 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admissions documents via Omnivox. Please consult our entrance requirements and our step-by-step guide before applying online.
+The online application system will open on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admissions documents via Omnivox. Please consult our entrance requirements and our step-by-step guide before applying online.
 
 Eligibility for college education in English
 If you have questions about eligibility for college education in English or how the Charter of the French Language applies at the college level, the Ministry of Higher Education encourages you to visit the following websites:
@@ -41,4 +41,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Jan. 10, 2023 at 07:49 AM (EST).*
+*Last updated on Tue Jan. 10, 2023 at 20:54 PM (EST).*
