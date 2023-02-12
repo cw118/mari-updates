@@ -84,7 +84,7 @@ def scrape():
 
         # Iterate over all children of the update section <div>
         for update in updates:         
-            # Write as <h3> if text is wrapped in <span> tags (the update "title")
+            # Write as <h3> if text is wrapped in <h5> tags (the update "title")
             # All spans used seem to have `style="text-decoration: underline;"`, meaning they should be emphasized
             if update.find("h5"):
                 # Ensure there's more than a newline to avoid injecting empty formatting tags

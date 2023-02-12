@@ -32,7 +32,7 @@ jobs:
       - name: Commit updates (scrape results)
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'Update with scraped content or error report'
+          message: 'Update README with scraped content'
           author_name: Carolyn Wu
           author_email: 87150472+cw118@users.noreply.github.com
           committer_name: GitHub Actions

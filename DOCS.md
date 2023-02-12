@@ -17,7 +17,7 @@ The `scrape()` function contains the code that scrapes the sites, and does the f
 
 Within this same function (`scrape()`), the BeautifulSoup library is used to parse the text content as LXML:
 
-- ***For the admissions updates section of the scraper***, the program searches for the `<div>` with the classes `x-text e4336-14 m3cg-b m3cg-d`, which contains all updates posted by the admissions teams (and that's what we want!). A condition checks whether a `<span>` tag *(these are styled with `text-decoration: underline;`)* was found within the `<p>` or `<ul>` tags scraped, the latter of which contain both update titles and the actual updates themselves; if a `<span>` is "detected", then the text of that paragraph is written with bold and underlined formatting, otherwise it'll be written as normal text.
+- ***For the admissions updates section of the scraper***, the program searches for the `<div>` with the classes `x-section e4336-e11 m3cg-0 m3cg-4`, which contains all updates posted by the admissions teams (and that's what we want!). A condition checks whether a `<h5>` is "detected": if so, the text of that paragraph is written as a Markdown `<h3>` heading, otherwise it'll be written as normal text.
 - ***For the calendar links section***, the program searches inside an `<article>` tag (where the calendar links tend to be included) for links, or anchor tags `<a>`, containing the word "calendar" (case-insensitive)
 - ***For Marianopolis' admissions articles section***, each article is found in an `<article>` tag. The title is found in an `<h2>` tag with a class of `entry-title`, the publication date in the text content of `<time>` tags, and so on *(see `main.py` for the rest, or visit the admissions articles page of Marianopolis' website to inspect the code for yourself)*. Each article entry is then added as a row to a Markdown table with three columns, "Article", "Publish Date" and "Excerpt". The article titles also link to their corresponding articles.
 - The desired site content scraped from above is then written to `README.md` every time the scraper script is run
@@ -29,8 +29,8 @@ This part of the repo is just as important, because it's an Actions workflow tha
 
 The workflow responsible for running the scraper is named "Web Scrape", and can be found in the `scrape.yml` file of this repo (the file path is `.github/workflows/scrape.yml`). It uses several Actions and steps:
 
-- The [Checkout V2](https://github.com/actions/checkout) action (*"Checkout repo content"*): check-out the `mari-updates` repo to allow the workflow to access it
-- The [setup-python V2](https://github.com/actions/setup-python) action (*"Setup Python"*): setup Python version `3.10.0`, which will be used to run the scraper script (`main.py`)
+- The [Checkout](https://github.com/actions/checkout) action (*"Checkout repo content"*): check-out the `mari-updates` repo to allow the workflow to access it
+- The [setup-python](https://github.com/actions/setup-python) action (*"Setup Python"*): setup Python version `3.10.0`, which will be used to run the scraper script (`main.py`)
 - The "Install requirements" step: install requirements, which are listed in the `requirements.txt` file of the repo, with the `pip` Python package installer
 - The "Execute scraper script" step: run/interpret the `main.py` Python web scraping script
 - The [Add & Commit](https://github.com/EndBug/add-and-commit) action (*"Commit updates (scrape results)"*): commit changes made in previous steps of this workflow directly to the repo, sets me as the commit author and GitHub Actions as the committer
@@ -39,7 +39,7 @@ The entire workflow currently runs on a `schedule` thanks to this `cron` syntax:
 
 ### Troubleshooting
 
-A fallback option was implemented in case any errors arose with making a request to either of the websites, or with parsing the code/text. 
+A fallback option was implemented in case any errors arose with making a request to either of the websites, or with parsing the code/text.
 
 While testing the scraper program locally, an error was discovered where the program is unable to parse code or write text to the README if certain unicode characters like the no-breaking space (`U+00A0`) are present. The solution was to normalize the text using the built-in `unicodedata` Python module, which in turn removes any problematic unicode characters to prevent such errors — this is now completed through a `normalize()` function. At one point, smart quotes, EN and EM dashes were being "normalized" to the *specials* unicode block (�), so they were replaced with non-typographic quotes (`'`) and regular dashes using a separate `.replace()` method.
 
