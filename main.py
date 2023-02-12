@@ -126,7 +126,7 @@ def scrape():
                 article_excerpt = article.find("div", class_ = "entry-content excerpt") # Get excerpt div (contains links and snippets/summaries)
 
                 article_pubdate = normalize(article.select_one("p.p-meta > span > time.entry-date").text) # Get publish date in text form
-                article_link = article_excerpt.find("a")["href"].strip() # Get article link (scraped from the "Read More" link button in the excerpt divs)
+                article_link = article_title.find("a")["href"].strip() # Get article link from article title
                 article_snippet = normalize(article_excerpt.find("p").text) # Get snippets/summaries of the articles
 
                 # Write article data to table row (Markdown)
