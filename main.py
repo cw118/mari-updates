@@ -69,7 +69,7 @@ def scrape():
     """
     Open README file and write if URL checks for all links pass
     """
-    with open("README.md", "w") as f:
+    with open("README.md", "w", encoding='utf-8') as f:
         # Set horizontal rule Markdown syntax to variable to print/write after each section
         hr = "---\n\n"
 
@@ -86,7 +86,7 @@ def scrape():
         for update in updates:         
             # Write as <h3> if text is wrapped in <span> tags (the update "title")
             # All spans used seem to have `style="text-decoration: underline;"`, meaning they should be emphasized
-            if update.find("span"):
+            if update.find("h5"):
                 # Ensure there's more than a newline to avoid injecting empty formatting tags
                 # If the text content contains more than a newline, make it a level 3 heading
                 if update.text != "\n":
@@ -94,7 +94,7 @@ def scrape():
                     f.write(f"### {update_text}\n\n")
             else:
                 update_text = normalize(update.text).strip()
-                f.write(update_text + "\n\n")
+                f.write(f"\n{update_text}\n\n")
         # Suggest source link/page to readers as the scraper doesn't preserve rich text/hyperlinks
         f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***\n\n" + hr)
 
@@ -108,7 +108,7 @@ def scrape():
 
             # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
             if "calendar" in calendar_title.lower():
-                f.write(f"- *{calendar_title}:* {calendar_url}\n") # Use a string literal for users to more easily identify what calendar each link leads to
+                f.write(f"- *{calendar_title}:* <{calendar_url}>\n") # Use a string literal for users to more easily identify what calendar each link leads to
         f.write("\n" + hr) # Newline and horizontal rule in between two sections
 
         # Write current year's admissions articles
@@ -126,7 +126,7 @@ def scrape():
                 article_excerpt = article.find("div", class_ = "entry-content excerpt") # Get excerpt div (contains links and snippets/summaries)
 
                 article_pubdate = normalize(article.select_one("p.p-meta > span > time.entry-date").text) # Get publish date in text form
-                article_link = article_title.find("a")["href"].strip() # Get article link from article title
+                article_link = article.find("h2", class_ = "entry-title").find("a")["href"].strip() # Get article link from article title
                 article_snippet = normalize(article_excerpt.find("p").text) # Get snippets/summaries of the articles
 
                 # Write article data to table row (Markdown)
@@ -138,7 +138,7 @@ def scrape():
         time = timestamp.strftime("%H:%M %p")
         # Write horizontal rule before timestamp
         f.write("\n" + hr)
-        f.write(f"*Last updated on {day} at {time} (EST).*")
+        f.write(f"*Last updated on {day} at {time} (EST).*\n")
 
 if __name__ == "__main__":
     main()
