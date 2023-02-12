@@ -10,18 +10,28 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)
 
-Fall 2023 Applications
-The online application system will open on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admissions documents via Omnivox. Please consult our entrance requirements and our step-by-step guide before applying online.
+### Fall 2023 Applications
+The online application system opened on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admissions documents via Omnivox. Please consult our entrance requirements and our step-by-step guide before applying online.
 
-How does Bill 96 (Charter of the French Language) Impact Fall 2023 Applications?
-Who can apply to Marianopolis?
-All Secondary V students can apply to Marianopolis, regardless of language or which high school they are attending.
+### How does the Charter of the French Language (Bill 96) Impact Fall 2023 Admissions?
+The primary impact of the new French Language Charter for Fall 2023 admissions is that it provides slightly different course and exit requirements for students who have a Certificate of Eligibility (CoE) for English-language education.
 Certificate of Eligibility
-Students who are eligible for English-language instruction but who do not have their certificate of eligibility from the Quebec government should apply for one before June 2023. Information on how to apply for the certificate of eligibility can be found here. However, students applying to college for Fall 2023 will not have to submit a copy of their certificate. Colleges will be able to validate each applicant's eligibility directly with their high school or school board.
+Students who are eligible for English-language primary and secondary education, but who do not have their Certificate of Eligibility (CoE) from the Quebec government should apply for one before June 2023. However, students will not need to submit a copy of their certificate when they apply to the College. Marianopolis will be able to validate each applicant's eligibility directly with their high school or school board.
+Admissions Process
+For Fall 2023, the application and admissions process remains the same as prior years. Any Secondary 5 / Grade 11 student from any high school, French or English, can apply to Marianopolis. Students will be admitted based on their academic record and any other entrance requirements for their program.
+Other colleges and cégeps may take a different approach - this is the approach Marianopolis is taking for Fall 2023: we commit to making an offer of admission to any CoE holder who meets our admission standards.
+French Courses
+For Fall 2023:
+
+Students with a CoE will continue to take two French courses in order to graduate.
+Students without a CoE will now be required to take three French courses in order to graduate.
+There are no changes to total course load: students with a CoE and students without a CoE still take the same total number of courses to graduate as prior years.
+
 Language Exit Exam
-In order to receive their DEC (Diplôme d'études collégiales), students must pass a language exit exam.
-Students with a certificate of eligibility for English-language instruction will be required to pass the English Exit Exam.
-Students without a certificate of eligibility will be required to pass the French Exit Exam (Épreuve uniforme de français). These students will be offered a sequence of three courses designed to prepare them for the French Exit Exam. These three course will be integrated into their academic program and will not result in an additional course load.
+In order to graduate, students must pass a language exit exam, set and marked by the Ministère de l'Enseignement supérieur:
+
+Students with a CoE will continue to write the English Exit Exam.
+Students without a CoE will now write the French Exit Exam (Épreuve uniforme de français). These students will take three French courses as mentioned above, which will be designed to prepare them to succeed on the exam.
 
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***
 
@@ -31,9 +41,8 @@ Students without a certificate of eligibility will be required to pass the Frenc
 
 Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:
 
-- *Academic Calendar 2022-2023:* http://www.marianopolis.edu/wp-content/uploads/2022/05/2022-2023-Academic-Calendar.pdf
-- *Course Calendar 2022-2023:* https://marianopolis-college.dcatalog.com/v/2022-2023-Marianopolis-Calendar/
-- *Course Calendar 2021-2022:* http://www.marianopolis.edu/wp-content/uploads/2022/09/Course-Calendar-2021-2022.pdf
+- *Academic Calendar 2022-2023:* <http://www.marianopolis.edu/wp-content/uploads/2022/05/2022-2023-Academic-Calendar.pdf>
+- *Course Calendar 2022-2023:* <https://marianopolis-college.dcatalog.com/v/2022-2023-Marianopolis-Calendar/>
 
 ---
 
@@ -43,8 +52,9 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | January 13, 2023 | The online application system for Fall 2023 admissions will open on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will ... |
+| [Winter Information Evening - February 9, 2023](https://www.bemarianopolis.ca/information-evening-2023/) | January 17, 2023 | Registration for the Winter Information Evening is now closed. For any questions about academic programs or admissions, please consult our FAQ section, admissions checklist or email us at: admissions@marianopolis.edu|
+| [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | January 13, 2023 | The online application system for Fall 2023 admissions opened on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will regularly ... |
 
 ---
 
-*Last updated on Mon Jan. 16, 2023 at 07:50 AM (EST).*
+*Last updated on Sun Feb. 12, 2023 at 12:40 PM (EST).*
