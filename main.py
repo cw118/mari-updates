@@ -80,7 +80,7 @@ def scrape():
         f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n" + hr) # hr = horizontal rule
 
         # Write admissions updates, iterating over and checking all children of the section <div>
-        f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/admissions-updates/)\n\n")
+        f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/updates/)\n\n")
 
         # Iterate over all children of the update section <div>
         for update in updates:         
