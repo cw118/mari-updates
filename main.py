@@ -34,7 +34,7 @@ def scrape():
     The class list/selector used below is quite specific due to it being a WordPress site.
     Depending on the site structure after new updates are posted, this may need to be modified.
     """
-    update_section = soup.find("div", class_ = "x-section e4336-11 m3cg-0 m3cg-4")
+    update_section = soup.find("div", class_ = "x-section e4336-e11 m3cg-0 m3cg-4")
 
     # Search for paragraphs containing updates
     updates = update_section.children
