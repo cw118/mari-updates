@@ -52,9 +52,8 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Winter Information Evening - February 9, 2023](https://www.bemarianopolis.ca/information-evening-2023/) | January 17, 2023 | Registration for the Winter Information Evening is now closed. For any questions about academic programs or admissions, please consult our FAQ section, admissions checklist or email us at: admissions@marianopolis.edu|
 | [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | January 13, 2023 | The online application system for Fall 2023 admissions opened on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will regularly ... |
 
 ---
 
-*Last updated on Mon Feb. 13, 2023 at 07:49 AM (EST).*
+*Last updated on Mon Feb. 13, 2023 at 20:59 PM (EST).*
