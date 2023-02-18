@@ -43,6 +43,7 @@ Looking for Marianopolis' course and academic calendars? See the list below for 
 
 - *Academic Calendar 2022-2023:* <http://www.marianopolis.edu/wp-content/uploads/2022/05/2022-2023-Academic-Calendar.pdf>
 - *Academic Calendar 2023-2024:* <http://www.marianopolis.edu/wp-content/uploads/2023/02/2023-2024-Academic-Calendar.pdf>
+- *Course Calendar 2022-2023:* <https://marianopolis-college.dcatalog.com/v/2022-2023-Marianopolis-Calendar/>
 
 ---
 
@@ -56,4 +57,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Fri Feb. 17, 2023 at 07:48 AM (EST).*
+*Last updated on Fri Feb. 17, 2023 at 20:55 PM (EST).*
