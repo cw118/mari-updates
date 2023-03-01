@@ -12,6 +12,7 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ### Fall 2023 Applications
 The online application system opened on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 pm. Students will be able to upload any supporting admissions documents via Omnivox. Please consult our entrance requirements and our step-by-step guide before applying online.
+If you wish to change your program choices, send an email to admissions@marianopolis.edu and ask for a ‘Request for program Change' form. You will need to return the signed form to the Admissions email before 1pm on March 1, 2023.
 
 ### How does the Charter of the French Language (Bill 96) Impact Fall 2023 Admissions?
 The primary impact of the new French Language Charter for Fall 2023 admissions is that it provides slightly different course and exit requirements for students who have a Certificate of Eligibility (CoE) for English-language education.
@@ -57,4 +58,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Feb. 28, 2023 at 07:50 AM (EST).*
+*Last updated on Tue Feb. 28, 2023 at 21:12 PM (EST).*
