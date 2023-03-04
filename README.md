@@ -12,7 +12,7 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ### Fall 2023 Applications
 The deadline to apply was March 1, 2023 at 11:59 pm. Students can still upload any supporting admissions documents via Omnivox. 
-Applications received after the March 1 deadline will be considered late and will only be reviewed once all other applications have been processed and only if space is still available at the College. As of April 7, the online application portal will be closed and no longer be accepting new applications. Please consult our entrance requirements and our step-by-step guide before applying online.
+Applications received after the March 1 deadline will be considered late and will only be reviewed once all other applications have been processed and only if space is still available at the College. As of April 20, the online application portal will be closed and no longer be accepting new applications. Please consult our entrance requirements and our step-by-step guide before applying online.
 The deadline to change program choices was March 1, 2023. Program changes will take place in June once high school grades are received from the Ministry of Education.
 
 ### How does the Charter of the French Language (Bill 96) Impact Fall 2023 Admissions?
@@ -59,4 +59,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Fri Mar. 03, 2023 at 07:48 AM (EST).*
+*Last updated on Fri Mar. 03, 2023 at 20:55 PM (EST).*
