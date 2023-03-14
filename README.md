@@ -58,8 +58,9 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 13, 2023 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | January 13, 2023 | The online application system for Fall 2023 admissions opened on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will regularly ... |
 
 ---
 
-*Last updated on Mon Mar. 13, 2023 at 08:49 AM (EST).*
+*Last updated on Mon Mar. 13, 2023 at 21:38 PM (EST).*
