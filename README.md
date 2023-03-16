@@ -46,7 +46,7 @@ Students without a CoE will now write the French Exit Exam (Épreuve uniforme d
 
 Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:
 
-- *Academic Calendar 2022-2023:* <http://www.marianopolis.edu/wp-content/uploads/2022/05/2022-2023-Academic-Calendar.pdf>
+- *Academic Calendar 2022-2023:* <http://www.marianopolis.edu/wp-content/uploads/2023/03/2022-2023-Academic-Calendar.pdf>
 - *Academic Calendar 2023-2024:* <http://www.marianopolis.edu/wp-content/uploads/2023/02/2023-2024-Academic-Calendar.pdf>
 - *Course Calendar 2022-2023:* <https://marianopolis-college.dcatalog.com/v/2022-2023-Marianopolis-Calendar/>
 
@@ -63,4 +63,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Mar. 15, 2023 at 08:48 AM (EST).*
+*Last updated on Wed Mar. 15, 2023 at 21:50 PM (EST).*
