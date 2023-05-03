@@ -10,7 +10,16 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/updates/)
 
-### Checking your Application Status
+### New Spots Available at the College 
+Marianopolis College has recently opened up additional spots in the following programs: 
+
+Arts, Literature & Communication 
+Liberal Arts 
+Social Science, all concentrations (Commerce; Human Behaviour; Law, Society & Justice; Core Social Science) 
+
+Students can apply using the Omnivox platform, which will remain available until May 25 by clicking here. 
+Those who are interested in attending the College should apply as soon as possible, as spots are limited and will be filled on a first-come, first-served basis. 
+Checking your Application Status
 You can check the status of your application in Omnivox. If your status says, "In Progress," it means your file is being evaluated. Decisions will be posted beginning March 13 and into April. 
 If the status of your application is "AD-Admission-Admitted," you've been accepted, congratulations! Your official acceptance letter will soon be available in Omnivox along with other documents related to your admission. 
 If you are admitted to your first-choice program, please note that you will not be evaluated for your second choice program. Fall 2023 Applications
@@ -64,4 +73,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue May. 02, 2023 at 08:44 AM (EST).*
+*Last updated on Tue May. 02, 2023 at 21:41 PM (EST).*
