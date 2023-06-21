@@ -10,12 +10,27 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/updates/)
 
-### New Spots Available for Fall 2023
-Marianopolis College has recently opened up additional spots for Fall 2023 in the following programs: 
+### Re-evaluations for Fall 2023 
+If you would like to submit a re-evaluation for Fall 2023 to the Admissions Office, please read the instructions below to verify which category you fall under.  
+Category A 
+You are attending Marianopolis in the fall but would like to be re-evaluated for another program.
+Please fill out the re-evaluation form and submit it along with your final report card to: admissions@marianopolis.edu 
+Category B
+You applied by the March 1 deadline but were not offered a spot at the College in any program. 
+Please fill out the re-evaluation form and submit it along with your final report card to: admissions@marianopolis.edu 
+Please note: 
 
-Arts, Literature and Communication 
-Liberal Arts 
-Social Science, all concentrations: Commerce; Human Behaviour; Law, Society and Justice; Core Social Science 
+The deadline to submit a request is Wednesday, July 5. 
+Email a PDF of your final report card along with the re-evaluation form.
+Priority will be given to students who meet the admission criteria of the incoming cohort in the selected program and only if space is available.
+No additional fee is required at this time.
+Decisions regarding your re-evaluation will go out by email the week of July 10. 
+New Spots Available for Fall 2023
+Marianopolis College has recently opened up additional spots for Fall 2023 in the following programs:
+
+Arts, Literature and Communication
+Liberal Arts
+Social Science, all concentrations: Commerce; Human Behaviour; Law, Society and Justice; Core Social Science
 
 Students can apply on the Omnivox platform, which will remain available until May 25. Those who are interested in attending the College should apply as soon as possible, as spots are limited and will be filled on a first-come, first-served basis.Checking your Application Status
 You can check the status of your application in Omnivox. If your status says, "In Progress," it means your file is being evaluated. Decisions will be posted beginning March 13 and into April. 
@@ -85,4 +100,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Jun. 20, 2023 at 08:46 AM (EST).*
+*Last updated on Tue Jun. 20, 2023 at 21:49 PM (EST).*
