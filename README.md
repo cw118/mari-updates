@@ -93,10 +93,11 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [2023 Orientation: Welcome to Marianopolis!](https://www.bemarianopolis.ca/2023-orientation-welcome-to-marianopolis/) | August 10, 2023 | Orientation starts next week! All first-year students will be on campus on Monday, August 14 to attend two information sessions, take a tour of the college, pick up their student ID and participate in outdoor activities and games with their ... |
 | [Meet our Arts, Literature and Communication (ALC) graduates](https://www.bemarianopolis.ca/meet-our-arts-literature-and-communication-alc-students/) | March 30, 2023 | Our ALC students are creative, talented, and passionate about expressing their ideas through visual art! Read on to see some examples of our 2022 graduates' work, and learn about what they are studying in university. For more information about our ALC ... |
 | [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 13, 2023 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
 | [Apply for Fall 2023](https://www.bemarianopolis.ca/apply/) | January 13, 2023 | The online application system for Fall 2023 admissions opened on January 16, 2023. The deadline to apply is March 1, 2023 at 11:59 p.m. Here is our step-by-step guide to applying: Remember to visit bemarianopolis.ca often, as we will regularly ... |
 
 ---
 
-*Last updated on Thu Aug. 10, 2023 at 08:46 AM (EST).*
+*Last updated on Thu Aug. 10, 2023 at 21:19 PM (EST).*
