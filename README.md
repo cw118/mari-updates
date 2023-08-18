@@ -10,49 +10,8 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/updates/)
 
-### Re-evaluations for Fall 2023 
-If you would like to submit a re-evaluation for Fall 2023 to the Admissions Office, please read the instructions below to verify which category you fall under.  
-Category A 
-You are attending Marianopolis in the fall but would like to be re-evaluated for another program.
-Please fill out the re-evaluation form and submit it along with your final report card to: admissions@marianopolis.edu 
-Category B
-You applied by the March 1 deadline but were not offered a spot at the College in any program. 
-Please fill out the re-evaluation form and submit it along with your final report card to: admissions@marianopolis.edu 
-Please note: 
-
-The deadline to submit a request is Wednesday, July 5. 
-Email a PDF of your final report card along with the re-evaluation form.
-Priority will be given to students who meet the admission criteria of the incoming cohort in the selected program and only if space is available.
-No additional fee is required at this time.
-Decisions regarding your re-evaluation will go out by email the week of July 10. 
-New Spots Available for Fall 2023
-Marianopolis College has recently opened up additional spots for Fall 2023 in the following programs:
-
-Arts, Literature and Communication
-Liberal Arts
-Social Science, all concentrations: Commerce; Human Behaviour; Law, Society and Justice; Core Social Science
-
-Students can apply on the Omnivox platform, which will remain available until May 25. Those who are interested in attending the College should apply as soon as possible, as spots are limited and will be filled on a first-come, first-served basis.Checking your Application Status
-You can check the status of your application in Omnivox. If your status says, "In Progress," it means your file is being evaluated. Decisions will be posted beginning March 13 and into April. 
-If the status of your application is "AD-Admission-Admitted," you've been accepted, congratulations! Your official acceptance letter will soon be available in Omnivox along with other documents related to your admission. 
-If you are admitted to your first-choice program, please note that you will not be evaluated for your second choice program. Fall 2023 Applications
-The deadline to apply was March 1, 2023 at 11:59 pm. Students can still upload any supporting admissions documents via Omnivox. Applications received after the March 1 deadline will be considered late and will only be reviewed once all other applications have been processed and only if space is still available at the College. 
-Here is our step-by-step guide to applying:
-
-Research your program of interest to make an informed decision. Remember, you can select a first-choice program and a second-choice program. We recommend the following:
-
-For your first-choice program, always select one with a higher entrance requirement than your second-choice program
-Don't apply to two profiles or concentrations within the same program that have the same entrance requirements
-Music and/or Double DECs with Music should always be put as a first-choice program because of the audition process.
 
 
-Consult our entrance requirements for a quick summary of the program prerequisites and requirements.
-Fill out the online application in Omnivox.
-Jot down your seven-digit online student application number (231-XXXX) that you will get once you complete your application. You will need it later, so don't forget!
-Find out which documents to upload along with your application.
-International students must have valid immigration documents for Collegial/Post-Secondary studies (Study Permit and CAQ) before applying and submit them at the same time as their supporting application documents.
-Check your email regularly to see if we have communicated with you regarding missing documents or to give you more information.
-You can check the status of your application in Omnivox.
 
 ### How does the Charter of the French Language (Bill 96) Impact Fall 2023 Admissions?
 The primary impact of the new French Language Charter for Fall 2023 admissions is that it provides slightly different course and exit requirements for students who have a Certificate of Eligibility (CoE) for English-language education.
@@ -100,4 +59,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Thu Aug. 17, 2023 at 08:40 AM (EST).*
+*Last updated on Thu Aug. 17, 2023 at 21:19 PM (EST).*
