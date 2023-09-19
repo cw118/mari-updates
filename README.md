@@ -13,25 +13,22 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 
 
-### How does the Charter of the French Language (Bill 96) Impact Fall 2023 Admissions?
-The primary impact of the new French Language Charter for Fall 2023 admissions is that it provides slightly different course and exit requirements for students who have a Certificate of Eligibility (CoE) for English-language education.
-Certificate of Eligibility
-Students who are eligible for English-language primary and secondary education, but who do not have their Certificate of Eligibility (CoE) from the Quebec government should apply for one before June 2023. However, students will not need to submit a copy of their certificate when they apply to the College. Marianopolis will be able to validate each applicant's eligibility directly with their high school or school board.
-Admissions Process
-For Fall 2023, the application and admissions process remains the same as prior years. Any Secondary 5 / Grade 11 student from any high school, French or English, can apply to Marianopolis. Students will be admitted based on their academic record and any other entrance requirements for their program.
-Other colleges and cégeps may take a different approach - this is the approach Marianopolis is taking for Fall 2023: we commit to making an offer of admission to any CoE holder who meets our admission standards.
-French Courses
-For Fall 2023:
+### Winter 2024 Admissions
+The online application system for Winter 2024 admissions opens on September 28, 2023. The deadline to apply is November 1, 2023 at 11:59 p.m. 
+Here is our step-by-step guide to applying:
+1. Research your program of interest to make an informed decision. Remember, you can choose a first-choice and a second-choice program. We recommend the following: 
 
-Students with a CoE will continue to take two French courses in order to graduate.
-Students without a CoE will now be required to take three French courses in order to graduate.
-There are no changes to total course load: students with a CoE and students without a CoE still take the same total number of courses to graduate as prior years.
+For your first-choice program, always indicate one with a higher entrance requirement than your second-choice program. 
+Don't apply to two profiles or concentrations within the same program that have the same entrance requirements. 
+Music and/or Double DECs with Music should always be put as a first-choice program because of the audition process. 
 
-Language Exit Exam
-In order to graduate, students must pass a language exit exam, set and marked by the Ministère de l'Enseignement supérieur:
-
-Students with a CoE will continue to write the English Exit Exam.
-Students without a CoE will now write the French Exit Exam (Épreuve uniforme de français). These students will take three French courses as mentioned above, which will be designed to prepare them to succeed on the exam.
+2. Consult our entrance requirements for a quick summary of the program prerequisites and requirements.
+3. Fill out the online application. 
+4. Jot down your seven-digit online student application number (241-XXXX) that you will get once you complete your application. You will need it later, so don't forget!
+5. Find out which documents to upload along with your application. Please do not upload or email letters of recommendation, awards or certificates. 
+6. Check your email regularly to see if we have communicated with you regarding missing documents or to give you more information.
+7. Check the status of your application online. 
+Remember to visit the website often, as we will regularly post important admission updates.
 
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***
 
@@ -57,4 +54,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Mon Sep. 18, 2023 at 08:43 AM (EST).*
+*Last updated on Mon Sep. 18, 2023 at 21:28 PM (EST).*
