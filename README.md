@@ -14,7 +14,7 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 
 ### Winter 2024 Admissions
-The online application system for Winter 2024 admissions opens on September 28, 2023. The deadline to apply is November 1, 2023 at 11:59 p.m. 
+The online application system for Winter 2024 admissions opens on October 2, 2023. The deadline to apply is November 1, 2023 at 11:59 p.m. 
 Here is our step-by-step guide to applying:
 1. Research your program of interest to make an informed decision. Remember, you can choose a first-choice and a second-choice program. We recommend the following: 
 
@@ -54,4 +54,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Fri Sep. 29, 2023 at 08:42 AM (EST).*
+*Last updated on Fri Sep. 29, 2023 at 21:25 PM (EST).*
