@@ -47,7 +47,7 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
-| [Sign Up for Open House on November 12!](https://www.bemarianopolis.ca/sign-up-for-open-house-on-november-12/) | October 10, 2023 | Marianopolis College is delighted to invite prospective students and their families to Open House on Sunday, November 12 from 12:00 p.m. - 4:00 p.m. Faculty, staff, current students and recent alumni will be on-site to answer questions about program offerings, ... |
+| [Sign Up for Open House on November 12!](https://www.bemarianopolis.ca/sign-up-for-open-house-on-november-12/) | October 10, 2023 | Marianopolis College is delighted to invite prospective students and their families to Open House on Sunday, November 12 from 12:00 p.m. - 4:00 p.m. Faculty, staff, current students and recent alumni will be on site to answer questions about program ... |
 | [2023 Orientation: Welcome to Marianopolis!](https://www.bemarianopolis.ca/2023-orientation-welcome-to-marianopolis/) | August 10, 2023 | Orientation starts this week! All first-year students will be on campus on Monday, August 14 to attend two information sessions, take a tour of the college, pick up their student ID and participate in outdoor activities and games with their ... |
 | [Meet our Arts, Literature and Communication (ALC) graduates](https://www.bemarianopolis.ca/meet-our-arts-literature-and-communication-alc-students/) | March 30, 2023 | Our ALC students are creative, talented, and passionate about expressing their ideas through visual art! Read on to see some examples of our 2022 graduates' work, and learn about what they are studying in university. For more information about our ALC ... |
 | [Check your application status and confirm your spot at the College](https://www.bemarianopolis.ca/check-status-confirm/) | March 13, 2023 | Check your application status Checking the status of your application is easy. Simply go to the Omnivox portal. If your file has been evaluated, you will see the decision. If it has not yet been evaluated, it will say “in ... |
@@ -55,4 +55,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Oct. 11, 2023 at 08:43 AM (EST).*
+*Last updated on Wed Oct. 11, 2023 at 21:25 PM (EST).*
