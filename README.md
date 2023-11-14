@@ -13,8 +13,8 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 
 
 
-### Winter 2024 Admissions
-The online application system for Winter 2024 admissions opens on October 2, 2023. The deadline to apply is November 1, 2023 at 11:59 p.m. 
+### Fall 2024 Admissions
+The online application system for Fall 2024 admissions will open in mid January 2024. The deadline to apply is March 1, 2024 at 11:59 p.m. 
 Here is our step-by-step guide to applying:
 1. Research your program of interest to make an informed decision. Remember, you can choose a first-choice and a second-choice program. We recommend the following: 
 
@@ -28,7 +28,7 @@ Music and/or Double DECs with Music should always be put as a first-choice progr
 5. Find out which documents to upload along with your application. Please do not upload or email letters of recommendation, awards or certificates. 
 6. Check your email regularly to see if we have communicated with you regarding missing documents or to give you more information.
 7. Check the status of your application online. 
-Remember to visit the website often, as we will regularly post important admission updates.
+Remember to visit our website often, as we will regularly post important admission updates.
 
 ***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***
 
@@ -55,4 +55,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Mon Nov. 13, 2023 at 07:43 AM (EST).*
+*Last updated on Mon Nov. 13, 2023 at 20:30 PM (EST).*
