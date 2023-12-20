@@ -24,7 +24,7 @@ Music and/or Double DECs with Music should always be put as a first-choice progr
 
 2. Consult our entrance requirements for a quick summary of the program prerequisites and requirements.
 3. Fill out the online application. 
-4. Jot down your seven-digit online student application number (241-XXXX) that you will get once you complete your application. You will need it later, so don't forget!
+4. Jot down your seven-digit online student application number (243-XXXX) that you will get once you complete your application. You will need it later, so don't forget!
 5. Find out which documents to upload along with your application. Please do not upload or email letters of recommendation, awards or certificates. 
 6. Check your email regularly to see if we have communicated with you regarding missing documents or to give you more information.
 7. Check the status of your application online. 
@@ -55,4 +55,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Dec. 19, 2023 at 07:42 AM (EST).*
+*Last updated on Tue Dec. 19, 2023 at 20:11 PM (EST).*
