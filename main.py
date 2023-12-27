@@ -40,20 +40,6 @@ def scrape():
     updates = update_section.children
 
     """
-    Scrape calendars (links)
-    """
-    # Grab HTML of the corresponding site
-    url_cal = "https://www.marianopolis.edu/campus-life/calendar/"
-    html_cal = requests.get(url_cal).text
-
-    soup = BeautifulSoup(html_cal, "lxml") # Parse with LXML parser
-
-    calendar_section = soup.find("article", class_ = "content") # The page being scraped here only links to calendars within the article.content tags with a few exceptions
-
-    # Search for links in the content <article> (this should exclude any navbar and footer links)
-    calendars = calendar_section.find_all("a")
-
-    """
     Scrape admissions articles published in 2022 (title, date published, summary, link to article/event)
     """
     # Grab HTML of the corresponding site section
@@ -97,19 +83,6 @@ def scrape():
                 f.write(f"\n{update_text}\n\n")
         # Suggest source link/page to readers as the scraper doesn't preserve rich text/hyperlinks
         f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***\n\n" + hr)
-
-        # Write calendar names and their corresponding links
-        f.write("## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)\n\n")
-        f.write("Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:\n\n")
-
-        for calendar in calendars:
-            calendar_url = calendar["href"] # Loop through each calendar link (anchor tag) and extract its href attribute (its URL)
-            calendar_title = normalize(calendar.text)  # Save the "title" of the calendar
-
-            # Write calendar links (which all, hopefully, have the word "calendar" in their title at some point)
-            if "calendar" in calendar_title.lower():
-                f.write(f"- *{calendar_title}:* <{calendar_url}>\n") # Use a string literal for users to more easily identify what calendar each link leads to
-        f.write("\n" + hr) # Newline and horizontal rule in between two sections
 
         # Write current year's admissions articles
         f.write("## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
