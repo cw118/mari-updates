@@ -34,13 +34,6 @@ Remember to visit our website often, as we will regularly post important admissi
 
 ---
 
-## [Calendars](https://www.marianopolis.edu/campus-life/calendar/)
-
-Looking for Marianopolis' course and academic calendars? See the list below for past and current published calendars:
-
-
----
-
 ## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)
 
 Recent articles published by the Marianopolis staff and recruitment team. Click on the title(s) to read the full text:
@@ -55,4 +48,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Dec. 27, 2023 at 07:41 AM (EST).*
+*Last updated on Wed Dec. 27, 2023 at 14:32 PM (EST).*
