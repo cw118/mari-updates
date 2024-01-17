@@ -11,7 +11,7 @@ This runs on a web scraper built with Python and Beautiful Soup, which updates a
 ## [Admissions updates](https://www.bemarianopolis.ca/admissions/updates/)
 
 ### Step 1: Do your research
-Research your program of interest to make an informed decision. Review our entrance requirements for a quick summary of the program prerequisites or consult our Frequently Asked Questions page for more information. Remember, you can choose a first-choice and a second-choice program. We recommend the following:
+Research your program of interest to make an informed decision. Review our entrance requirements for a quick summary of the program prerequisites or consult our Frequently Asked Questions page for any other question. Remember, you can choose a first-choice and a second-choice program. We recommend the following:
 
 For your first-choice program, always choose one with a higher entrance requirement than your second-choice program.
 Don't apply to two profiles or concentrations within the same program that have the same entrance requirements.
@@ -30,4 +30,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Tue Jan. 16, 2024 at 07:44 AM (EST).*
+*Last updated on Tue Jan. 16, 2024 at 20:35 PM (EST).*
