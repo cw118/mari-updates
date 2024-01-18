@@ -30,4 +30,4 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 ---
 
-*Last updated on Wed Jan. 17, 2024 at 20:34 PM (EST).*
+*Last updated on Thu Jan. 18, 2024 at 07:43 AM (EST).*
