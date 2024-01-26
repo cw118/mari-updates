@@ -27,7 +27,8 @@ Recent articles published by the Marianopolis staff and recruitment team. Click 
 
 | Article | Publish Date | Excerpt |
 | ------- | ------------ | ------- |
+| [Sign Up for the Winter Information Evening](https://www.bemarianopolis.ca/sign-up-for-the-winter-information-evening-on-feb-12/) | January 25, 2024 | Still have questions about programs or the application process? Marianopolis College is hosting its Winter Information Evening on Monday February 12 from 6:00 p.m. - 8:30 p.m. The event offers prospective students the chance to attend presentations on academic programs ... |
 
 ---
 
-*Last updated on Thu Jan. 25, 2024 at 07:44 AM (EST).*
+*Last updated on Thu Jan. 25, 2024 at 20:28 PM (EST).*
