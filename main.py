@@ -25,7 +25,7 @@ def scrape():
     Scrape admissions updates
     """
     # Grab HTML of the corresponding site
-    url_adm = "https://www.bemarianopolis.ca/admissions/updates/"
+    url_adm = "https://www.bemarianopolis.ca/admissions/applications/"
     html_adm = requests.get(url_adm).text
 
     soup = BeautifulSoup(html_adm, "lxml") # Parse with LXML parser
@@ -66,7 +66,7 @@ def scrape():
         f.write("*Refer to [DOCS.md](DOCS.md) for this repository's documentation.*\n\n" + hr) # hr = horizontal rule
 
         # Write admissions updates, iterating over and checking all children of the section <div>
-        f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/updates/)\n\n")
+        f.write("## [Admissions updates](https://www.bemarianopolis.ca/admissions/applications/)\n\n")
 
         # Iterate over all children of the update section <div>
         for update in updates:         
@@ -82,7 +82,7 @@ def scrape():
                 update_text = normalize(update.text).strip()
                 f.write(f"\n{update_text}\n\n")
         # Suggest source link/page to readers as the scraper doesn't preserve rich text/hyperlinks
-        f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/updates/) for details.***\n\n" + hr)
+        f.write("***\*\*Visit the [Marianopolis College website](https://www.bemarianopolis.ca/admissions/applications/) for details.***\n\n" + hr)
 
         # Write current year's admissions articles
         f.write("## [Admission articles](https://www.bemarianopolis.ca/category/admissions/)\n\n")
