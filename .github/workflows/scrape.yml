@@ -4,8 +4,8 @@ on:
   # Runs once at 07:15 or 08:15 EST (12:15 UTC), then
   # a second time at 19:15 or 20:15 EST (00:15 UTC)
   # The EST hour depends on daylight savings
-  schedule:
-    - cron: "15 0,12 * * *"
+  # schedule:
+  #   - cron: "15 0,12 * * *"
   
   # Allows the workflow to be manually triggered
   workflow_dispatch:
