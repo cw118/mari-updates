@@ -6,6 +6,6 @@ lxml==5.2.2
 pycodestyle==2.12.0
 pytz==2024.1
 requests==2.32.3
-soupsieve==2.5
+soupsieve==2.6
 toml==0.10.2
 urllib3==2.2.2
